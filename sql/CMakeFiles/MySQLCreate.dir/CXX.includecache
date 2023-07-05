@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/windows/DataSorting/sql/SqlCreate.cpp
+SqlCreate.h
+/windows/DataSorting/sql/SqlCreate.h
+
+/windows/DataSorting/sql/SqlCreate.h
+mysql/mysql.h
+-
+iostream
+-
+string
+-
+dirent.h
+-
+sys/stat.h
+-
+fstream
+-
+vector
+-
+ctime
+-
+cstdlib
+-
+cstring
+-
+
+/windows/DataSorting/sql/SqlCreateTest.cpp
+SqlCreate.h
+/windows/DataSorting/sql/SqlCreate.h
+

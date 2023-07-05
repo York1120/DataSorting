@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/EMailTest.dir/SendMail.cpp.o CMakeFiles/EMailTest.dir/SendMailTest.cpp.o  -o EMailTest 

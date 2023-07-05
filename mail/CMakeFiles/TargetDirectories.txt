@@ -1,0 +1,3 @@
+/windows/DataSorting/mail/CMakeFiles/rebuild_cache.dir
+/windows/DataSorting/mail/CMakeFiles/EMailTest.dir
+/windows/DataSorting/mail/CMakeFiles/edit_cache.dir

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/windows/DataSorting/mail/SendMail.cpp
+SendMail.h
+/windows/DataSorting/mail/SendMail.h
+
+/windows/DataSorting/mail/SendMail.h
+windows.h
+-
+WinSock.h
+-
+netdb.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+iostream
+-
+
+/windows/DataSorting/mail/SendMailTest.cpp
+SendMail.h
+/windows/DataSorting/mail/SendMail.h
+iostream
+-
+string
+-
+
