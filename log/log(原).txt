@@ -1,0 +1,1449 @@
+2023-07-14 16:34:16: wd=1 filepath=/windows/test1/test1 copy 2.txt has insert to database
+2023-07-14 16:34:16: wd=2 filepath=/windows/test1/test1 copy 3.txt has insert to database
+2023-07-14 16:34:16: wd=3 filepath=/windows/test1/test1 copy 6.txt has insert to database
+2023-07-14 16:34:16: wd=4 filepath=/windows/test1/test1 copy 7.txt has insert to database
+2023-07-14 16:34:16: wd=5 filepath=/windows/test1/test1 copy 9.txt has insert to database
+2023-07-14 16:34:16: wd=6 filepath=/windows/test1/test1 copy.txt has insert to database
+2023-07-14 16:34:16: wd=7 filepath=/windows/test1/test1.txt has insert to database
+2023-07-14 16:34:16: wd=8 filepath=/windows/test1/test4/test4.txt has insert to database
+2023-07-14 16:34:16: wd=9 filepath=/windows/test1/test4/test5/test5.txt has insert to database
+2023-07-14 16:34:16: wd=10 filepath=/windows/test1/test4/test5/test6/test6.txt has insert to database
+2023-07-14 16:34:16: wd=11 filepath=/windows/test1/test4/test5/test6/test7/test7.txt has insert to database
+2023-07-14 16:34:16: wd=12 filepath=/windows/test1/test4/test5/test6/test7/test8/test8.txt has insert to database
+2023-07-14 16:34:16: wd=13 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test10/test10.txt has insert to database
+2023-07-14 16:34:16: wd=14 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test10/test11/test11.txt has insert to database
+2023-07-14 16:34:16: wd=15 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test10/test11/test12/test12.txt has insert to database
+2023-07-14 16:34:16: wd=16 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test10/test11/test12/test13/test13.txt has insert to database
+2023-07-14 16:34:16: wd=17 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test9.txt has insert to database
+2023-07-14 16:37:54: wd=1 filepath=/windows/test1/test1 copy 2.txt has insert to database
+2023-07-14 16:37:54: wd=2 filepath=/windows/test1/test1 copy 3.txt has insert to database
+2023-07-14 16:37:54: wd=3 filepath=/windows/test1/test1 copy 6.txt has insert to database
+2023-07-14 16:37:54: wd=4 filepath=/windows/test1/test1 copy 7.txt has insert to database
+2023-07-14 16:37:54: wd=5 filepath=/windows/test1/test1 copy 9.txt has insert to database
+2023-07-14 16:37:54: wd=6 filepath=/windows/test1/test1 copy.txt has insert to database
+2023-07-14 16:37:54: wd=7 filepath=/windows/test1/test1.txt has insert to database
+2023-07-14 16:37:54: wd=8 filepath=/windows/test1/test4/test4.txt has insert to database
+2023-07-14 16:37:54: wd=9 filepath=/windows/test1/test4/test5/test5.txt has insert to database
+2023-07-14 16:37:54: wd=10 filepath=/windows/test1/test4/test5/test6/test6.txt has insert to database
+2023-07-14 16:37:54: wd=11 filepath=/windows/test1/test4/test5/test6/test7/test7.txt has insert to database
+2023-07-14 16:37:54: wd=12 filepath=/windows/test1/test4/test5/test6/test7/test8/test8.txt has insert to database
+2023-07-14 16:37:54: wd=13 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test10/test10.txt has insert to database
+2023-07-14 16:37:54: wd=14 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test10/test11/test11.txt has insert to database
+2023-07-14 16:37:54: wd=15 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test10/test11/test12/test12.txt has insert to database
+2023-07-14 16:37:54: wd=16 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test10/test11/test12/test13/test13.txt has insert to database
+2023-07-14 16:37:54: wd=17 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test9.txt has insert to database
+2023-07-14 16:38:13: wd=1 filepath=/windows/ColorChecker_A-20Lux_test_Tele_5X_Capture_0/11 - 副本 (2).txt has insert to database
+2023-07-14 16:38:13: wd=2 filepath=/windows/ColorChecker_A-20Lux_test_Tele_5X_Capture_0/11 - 副本 (3).txt has insert to database
+2023-07-14 16:38:13: wd=3 filepath=/windows/ColorChecker_A-20Lux_test_Tele_5X_Capture_0/11 - 副本.txt has insert to database
+2023-07-14 16:38:13: wd=4 filepath=/windows/ColorChecker_A-20Lux_test_Tele_5X_Capture_0/11.txt has insert to database
+2023-07-14 16:38:13: wd=5 filepath=/windows/ColorChecker_A-20Lux_test_Tele_5X_Capture_0/IMG_20230301_225900.jpg has insert to database
+2023-07-14 16:38:13: wd=6 filepath=/windows/ColorChecker_A-20Lux_test_Tele_5X_Capture_0/IMG_20230301_225912.jpg has insert to database
+2023-07-14 16:38:13: wd=7 filepath=/windows/ColorChecker_A-20Lux_test_Tele_5X_Capture_0/新建文件夹/asasadasd.jpg has insert to database
+2023-07-14 16:38:13: wd=8 filepath=/windows/ColorChecker_A-20Lux_test_Tele_5X_Capture_0/新建文件夹/IMG_20230301_225824.jpg has insert to database
+2023-07-14 16:38:13: wd=9 filepath=/windows/ColorChecker_A-20Lux_test_Tele_5X_Capture_0/新建文件夹/IMG_20230301_225836.jpg has insert to database
+2023-07-14 16:38:13: wd=10 filepath=/windows/ColorChecker_A-20Lux_test_Tele_5X_Capture_0/新建文件夹/IMG_20230301_225848.jpg has insert to database
+2023-07-14 16:38:13: wd=11 filepath=/windows/ColorChecker_A-20Lux_test_Tele_5X_Capture_0/新建文件夹/新建文件夹/新建文件夹/新建文件夹/新建文件夹/新建文件夹/新建文件夹/新建文件夹/IMG_20230301_225824.jpg has insert to database
+2023-07-14 16:38:13: wd=12 filepath=/windows/DataSorting/.git/COMMIT_EDITMSG has insert to database
+2023-07-14 16:38:13: wd=13 filepath=/windows/DataSorting/.git/config has insert to database
+2023-07-14 16:38:13: wd=14 filepath=/windows/DataSorting/.git/description has insert to database
+2023-07-14 16:38:13: wd=15 filepath=/windows/DataSorting/.git/HEAD has insert to database
+2023-07-14 16:38:13: wd=16 filepath=/windows/DataSorting/.git/hooks/applypatch-msg.sample has insert to database
+2023-07-14 16:38:13: wd=17 filepath=/windows/DataSorting/.git/hooks/commit-msg.sample has insert to database
+2023-07-14 16:38:13: wd=18 filepath=/windows/DataSorting/.git/hooks/fsmonitor-watchman.sample has insert to database
+2023-07-14 16:38:13: wd=19 filepath=/windows/DataSorting/.git/hooks/post-update.sample has insert to database
+2023-07-14 16:38:13: wd=20 filepath=/windows/DataSorting/.git/hooks/pre-applypatch.sample has insert to database
+2023-07-14 16:38:13: wd=21 filepath=/windows/DataSorting/.git/hooks/pre-commit.sample has insert to database
+2023-07-14 16:38:13: wd=22 filepath=/windows/DataSorting/.git/hooks/pre-merge-commit.sample has insert to database
+2023-07-14 16:38:14: wd=23 filepath=/windows/DataSorting/.git/hooks/pre-push.sample has insert to database
+2023-07-14 16:38:14: wd=24 filepath=/windows/DataSorting/.git/hooks/pre-rebase.sample has insert to database
+2023-07-14 16:38:14: wd=25 filepath=/windows/DataSorting/.git/hooks/pre-receive.sample has insert to database
+2023-07-14 16:38:14: wd=26 filepath=/windows/DataSorting/.git/hooks/prepare-commit-msg.sample has insert to database
+2023-07-14 16:38:14: wd=27 filepath=/windows/DataSorting/.git/hooks/push-to-checkout.sample has insert to database
+2023-07-14 16:38:14: wd=28 filepath=/windows/DataSorting/.git/hooks/sendemail-validate.sample has insert to database
+2023-07-14 16:38:14: wd=29 filepath=/windows/DataSorting/.git/hooks/update.sample has insert to database
+2023-07-14 16:38:14: wd=30 filepath=/windows/DataSorting/.git/index has insert to database
+2023-07-14 16:38:14: wd=31 filepath=/windows/DataSorting/.git/info/exclude has insert to database
+2023-07-14 16:38:14: wd=32 filepath=/windows/DataSorting/.git/logs/HEAD has insert to database
+2023-07-14 16:38:14: wd=33 filepath=/windows/DataSorting/.git/logs/refs/heads/main has insert to database
+2023-07-14 16:38:14: wd=34 filepath=/windows/DataSorting/.git/logs/refs/remotes/origin/main has insert to database
+2023-07-14 16:38:14: wd=35 filepath=/windows/DataSorting/.git/objects/00/750edc07d6415dcc07ae0351e9397b0222b7ba has insert to database
+2023-07-14 16:38:14: wd=36 filepath=/windows/DataSorting/.git/objects/03/dc8951540a8bff5e77ddd5932c3ee7684fa8b5 has insert to database
+2023-07-14 16:38:14: wd=37 filepath=/windows/DataSorting/.git/objects/05/11092be365acd97e8676c7e6496316660d8b60 has insert to database
+2023-07-14 16:38:14: wd=38 filepath=/windows/DataSorting/.git/objects/05/96409c1c180daa4f22c8cf70ee07ce9ba95d1e has insert to database
+2023-07-14 16:38:14: wd=39 filepath=/windows/DataSorting/.git/objects/08/5bbaa05574c4b4769055a4e9beb5036df7ec24 has insert to database
+2023-07-14 16:38:14: wd=40 filepath=/windows/DataSorting/.git/objects/0a/d36cc9a42a2e583d3a2e02d5e30ec60aeab267 has insert to database
+2023-07-14 16:38:14: wd=41 filepath=/windows/DataSorting/.git/objects/11/b54b14fc0a3538ff6b6296e471d067002ee7a0 has insert to database
+2023-07-14 16:38:14: wd=42 filepath=/windows/DataSorting/.git/objects/11/b7df452ad29dfd7bf1d9b188856c9e33182403 has insert to database
+2023-07-14 16:38:14: wd=43 filepath=/windows/DataSorting/.git/objects/19/a9ccae8956d20ea78fcbaa929a195ae4089300 has insert to database
+2023-07-14 16:38:14: wd=44 filepath=/windows/DataSorting/.git/objects/1f/721c99700bd47bc535c4e2f88daac2f346c35b has insert to database
+2023-07-14 16:38:14: wd=45 filepath=/windows/DataSorting/.git/objects/26/d63e3129e86fce18bf66f57ca525b97fd8b8fd has insert to database
+2023-07-14 16:38:14: wd=46 filepath=/windows/DataSorting/.git/objects/27/47d7bca88f5cc056d0c0cd5f9389681915bb19 has insert to database
+2023-07-14 16:38:14: wd=47 filepath=/windows/DataSorting/.git/objects/28/e0999080c84ed19cb4181a7a157d2d3a916e07 has insert to database
+2023-07-14 16:38:14: wd=48 filepath=/windows/DataSorting/.git/objects/2a/4af9103f4d217ddd648a608520176375c5b98d has insert to database
+2023-07-14 16:38:14: wd=49 filepath=/windows/DataSorting/.git/objects/2a/9ecdd9108932d145315f3e168ee49382bba30e has insert to database
+2023-07-14 16:38:14: wd=50 filepath=/windows/DataSorting/.git/objects/2d/66298588989dc5d404dae0025b8bf4e952498e has insert to database
+2023-07-14 16:38:14: wd=51 filepath=/windows/DataSorting/.git/objects/2e/28d794eb03bc7ac2f8fd53820a954358ac6b4c has insert to database
+2023-07-14 16:38:14: wd=52 filepath=/windows/DataSorting/.git/objects/3b/02370e9d9a8f9b672cc36a38e8a16d71e6c1fa has insert to database
+2023-07-14 16:38:14: wd=53 filepath=/windows/DataSorting/.git/objects/3c/b473347ed50f5d22bbb94e44beb5fc121da4db has insert to database
+2023-07-14 16:38:14: wd=54 filepath=/windows/DataSorting/.git/objects/3d/ccd731726d7faa8b29d8d7dba3b981a53ca497 has insert to database
+2023-07-14 16:38:14: wd=55 filepath=/windows/DataSorting/.git/objects/47/34f921155fc93065951ba6a29b1a801e88996a has insert to database
+2023-07-14 16:38:14: wd=56 filepath=/windows/DataSorting/.git/objects/47/71738ed41d648851a8660325cc6b66ecb4d56d has insert to database
+2023-07-14 16:38:14: wd=57 filepath=/windows/DataSorting/.git/objects/49/536caaafd3be4a72b169a81168b3681c1e106b has insert to database
+2023-07-14 16:38:14: wd=58 filepath=/windows/DataSorting/.git/objects/4c/6a26867e072126d33fc802b14e1ee20cbb4384 has insert to database
+2023-07-14 16:38:14: wd=59 filepath=/windows/DataSorting/.git/objects/57/50cd6f85fb8415ce16b4bd9385ffae24ba56b3 has insert to database
+2023-07-14 16:38:14: wd=60 filepath=/windows/DataSorting/.git/objects/58/1477e0ecf68056d664140938e63741e1163100 has insert to database
+2023-07-14 16:38:14: wd=61 filepath=/windows/DataSorting/.git/objects/5a/dacc0c34d8bf7c9f168d422b063abd31f0e63e has insert to database
+2023-07-14 16:38:14: wd=62 filepath=/windows/DataSorting/.git/objects/64/6c4e72a131def9edaa6c04644657b42b878c94 has insert to database
+2023-07-14 16:38:14: wd=63 filepath=/windows/DataSorting/.git/objects/64/cc4fae8904f57e36c24ec7169ed6df5069d88b has insert to database
+2023-07-14 16:38:14: wd=64 filepath=/windows/DataSorting/.git/objects/66/a78f187414cc208aaa737873b38ed7468deb2c has insert to database
+2023-07-14 16:38:14: wd=65 filepath=/windows/DataSorting/.git/objects/67/dcdb323a54e4bd80c19a9b646befd08c4429e0 has insert to database
+2023-07-14 16:38:14: wd=66 filepath=/windows/DataSorting/.git/objects/67/fd280013d73c8eaaadf3a011610802f2a37ec9 has insert to database
+2023-07-14 16:38:14: wd=67 filepath=/windows/DataSorting/.git/objects/67/fdffaebdd9f9d69bef0a79c49a2c9fbe29464b has insert to database
+2023-07-14 16:38:14: wd=68 filepath=/windows/DataSorting/.git/objects/68/d79913bdc8ae4f6082564716b423391f6f7e14 has insert to database
+2023-07-14 16:38:14: wd=69 filepath=/windows/DataSorting/.git/objects/6a/9dc74f48190611094be92ae37d081d83beb533 has insert to database
+2023-07-14 16:38:14: wd=70 filepath=/windows/DataSorting/.git/objects/6b/53151d3e12eba089352f0a1a6d5fd38ca74428 has insert to database
+2023-07-14 16:38:14: wd=71 filepath=/windows/DataSorting/.git/objects/6e/4fcbaea214ed994d125ffeb1e151d7f34f1e82 has insert to database
+2023-07-14 16:38:14: wd=72 filepath=/windows/DataSorting/.git/objects/71/c2ceda86a2fae89d661d131b89af3990e37838 has insert to database
+2023-07-14 16:38:14: wd=73 filepath=/windows/DataSorting/.git/objects/72/2faa803f6df8628261ccd5da97b74fa64c0114 has insert to database
+2023-07-14 16:38:14: wd=74 filepath=/windows/DataSorting/.git/objects/7f/8780b0bd5128ffc0212d99158836576a9a806f has insert to database
+2023-07-14 16:38:14: wd=75 filepath=/windows/DataSorting/.git/objects/83/e86dd8cd85f9f7554f51122b8cd08412ec01f2 has insert to database
+2023-07-14 16:38:14: wd=76 filepath=/windows/DataSorting/.git/objects/84/5cd7a2975a6f3d44cb5a504afd90a25b8c68d6 has insert to database
+2023-07-14 16:38:14: wd=77 filepath=/windows/DataSorting/.git/objects/85/984d753b2f39384841d4e81fd0f2225061bc74 has insert to database
+2023-07-14 16:38:14: wd=78 filepath=/windows/DataSorting/.git/objects/86/bdb86da18edd6543bd25a0aabedc1449dac935 has insert to database
+2023-07-14 16:38:14: wd=79 filepath=/windows/DataSorting/.git/objects/8e/ff0c6e12705968f3216e6779b24ce38f5a69ed has insert to database
+2023-07-14 16:38:14: wd=80 filepath=/windows/DataSorting/.git/objects/93/c177c4f472a82fea7768286525a1c3342b34b3 has insert to database
+2023-07-14 16:38:14: wd=81 filepath=/windows/DataSorting/.git/objects/97/dfe5c22869b6e1e6d13021c0bc40445ebce980 has insert to database
+2023-07-14 16:38:14: wd=82 filepath=/windows/DataSorting/.git/objects/99/b0ed7968528d3bbb7fd62c21e4c4bff3205450 has insert to database
+2023-07-14 16:38:14: wd=83 filepath=/windows/DataSorting/.git/objects/9c/7e6ff2d97c21de053eeb6dbed121da48481b08 has insert to database
+2023-07-14 16:38:14: wd=84 filepath=/windows/DataSorting/.git/objects/9d/4f89e76fc37ffe9649aeaf304254db8fbb6403 has insert to database
+2023-07-14 16:38:14: wd=85 filepath=/windows/DataSorting/.git/objects/9e/0e71d8c6b896ec560f07199f9cc974e84817a5 has insert to database
+2023-07-14 16:38:14: wd=86 filepath=/windows/DataSorting/.git/objects/a0/5e5f6bedecbe3b4ff7878285c569930d1d69c8 has insert to database
+2023-07-14 16:38:14: wd=87 filepath=/windows/DataSorting/.git/objects/a1/140c3ce4c1922f296ac56f27442a0c0c16d38b has insert to database
+2023-07-14 16:38:14: wd=88 filepath=/windows/DataSorting/.git/objects/a8/7bcbb9749a54b747fa0c92675307efaeca649f has insert to database
+2023-07-14 16:38:14: wd=89 filepath=/windows/DataSorting/.git/objects/ae/0f49908c89c0ae48d68d46e0157414893eb334 has insert to database
+2023-07-14 16:38:14: wd=90 filepath=/windows/DataSorting/.git/objects/b1/860a3dd40b90b19fab68ce7a4bf1a8fee6135d has insert to database
+2023-07-14 16:38:14: wd=91 filepath=/windows/DataSorting/.git/objects/b1/c0807ef942f8a1c41b965f191acb43ede9d644 has insert to database
+2023-07-14 16:38:14: wd=92 filepath=/windows/DataSorting/.git/objects/b4/a75f238fa9a0bcd02843b7082bd708584ced39 has insert to database
+2023-07-14 16:38:14: wd=93 filepath=/windows/DataSorting/.git/objects/b6/ff3ba2ee8164f29c4f17b203e7fa2b6147bab5 has insert to database
+2023-07-14 16:38:14: wd=94 filepath=/windows/DataSorting/.git/objects/b8/ab8bf03e6eb027fb75735722e7efdfb8e73fb9 has insert to database
+2023-07-14 16:38:14: wd=95 filepath=/windows/DataSorting/.git/objects/b9/3418c6ed69feaf1b5c2feb9592bbdb5a5f042c has insert to database
+2023-07-14 16:38:14: wd=96 filepath=/windows/DataSorting/.git/objects/cd/9b9d81179163eca2c1c05c8f70ba6f1a5735a8 has insert to database
+2023-07-14 16:38:14: wd=97 filepath=/windows/DataSorting/.git/objects/cd/cce3fefd730706d4facce102a085a6d4dad818 has insert to database
+2023-07-14 16:38:15: wd=98 filepath=/windows/DataSorting/.git/objects/ce/ed4a7ab27c376110920f56b20bd6b97e82ed69 has insert to database
+2023-07-14 16:38:15: wd=99 filepath=/windows/DataSorting/.git/objects/cf/102e17779e972156a6f987f024af935c751fcf has insert to database
+2023-07-14 16:38:15: wd=100 filepath=/windows/DataSorting/.git/objects/d1/94e9ef144db772a8310aede82008522e0032a0 has insert to database
+2023-07-14 16:38:15: wd=101 filepath=/windows/DataSorting/.git/objects/d7/4902ee61d6f630feab179bb54a2aa42337effe has insert to database
+2023-07-14 16:38:15: wd=102 filepath=/windows/DataSorting/.git/objects/de/ff9c2af7a1e1454117c3851242c02e6e2f0771 has insert to database
+2023-07-14 16:38:15: wd=103 filepath=/windows/DataSorting/.git/objects/df/c5d501b2a4eb9a445af3f93c7ad29dd7c92b74 has insert to database
+2023-07-14 16:38:15: wd=104 filepath=/windows/DataSorting/.git/objects/e1/a367a2bad94b3f7ffd96a1df9839584204f0d0 has insert to database
+2023-07-14 16:38:15: wd=105 filepath=/windows/DataSorting/.git/objects/e8/00dde2b0e690cf78fae9c02389b674fc791eb2 has insert to database
+2023-07-14 16:38:15: wd=106 filepath=/windows/DataSorting/.git/objects/f0/6f671de303ede769f53e5a92708795ff8c1cdb has insert to database
+2023-07-14 16:38:15: wd=107 filepath=/windows/DataSorting/.git/refs/heads/main has insert to database
+2023-07-14 16:38:15: wd=108 filepath=/windows/DataSorting/.git/refs/remotes/origin/main has insert to database
+2023-07-14 16:38:15: wd=109 filepath=/windows/DataSorting/config.h has insert to database
+2023-07-14 16:38:15: wd=110 filepath=/windows/DataSorting/html/app has insert to database
+2023-07-14 16:38:15: wd=111 filepath=/windows/DataSorting/html/file.html has insert to database
+2023-07-14 16:38:15: wd=112 filepath=/windows/DataSorting/html/html.cpp has insert to database
+2023-07-14 16:38:15: wd=113 filepath=/windows/DataSorting/log/app has insert to database
+2023-07-14 16:38:15: wd=114 filepath=/windows/DataSorting/log/log.cpp has insert to database
+2023-07-14 16:38:15: wd=115 filepath=/windows/DataSorting/log/log.h has insert to database
+2023-07-14 16:38:15: wd=116 filepath=/windows/DataSorting/log/log.txt has insert to database
+2023-07-14 16:38:15: wd=117 filepath=/windows/DataSorting/log/logTest.cpp has insert to database
+2023-07-14 16:38:15: wd=118 filepath=/windows/DataSorting/mail/build/CMakeCache.txt has insert to database
+2023-07-14 16:38:15: wd=119 filepath=/windows/DataSorting/mail/build/CMakeFiles/3.16.3/CMakeCCompiler.cmake has insert to database
+2023-07-14 16:38:15: wd=120 filepath=/windows/DataSorting/mail/build/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake has insert to database
+2023-07-14 16:38:15: wd=121 filepath=/windows/DataSorting/mail/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin has insert to database
+2023-07-14 16:38:15: wd=122 filepath=/windows/DataSorting/mail/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin has insert to database
+2023-07-14 16:38:15: wd=123 filepath=/windows/DataSorting/mail/build/CMakeFiles/3.16.3/CMakeSystem.cmake has insert to database
+2023-07-14 16:38:15: wd=124 filepath=/windows/DataSorting/mail/build/CMakeFiles/3.16.3/CompilerIdC/a.out has insert to database
+2023-07-14 16:38:15: wd=125 filepath=/windows/DataSorting/mail/build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c has insert to database
+2023-07-14 16:38:15: wd=126 filepath=/windows/DataSorting/mail/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out has insert to database
+2023-07-14 16:38:15: wd=127 filepath=/windows/DataSorting/mail/build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp has insert to database
+2023-07-14 16:38:15: wd=128 filepath=/windows/DataSorting/mail/build/CMakeFiles/cmake.check_cache has insert to database
+2023-07-14 16:38:15: wd=129 filepath=/windows/DataSorting/mail/build/CMakeFiles/CMakeDirectoryInformation.cmake has insert to database
+2023-07-14 16:38:15: wd=130 filepath=/windows/DataSorting/mail/build/CMakeFiles/CMakeOutput.log has insert to database
+2023-07-14 16:38:15: wd=131 filepath=/windows/DataSorting/mail/build/CMakeFiles/EMailTest.dir/build.make has insert to database
+2023-07-14 16:38:15: wd=132 filepath=/windows/DataSorting/mail/build/CMakeFiles/EMailTest.dir/cmake_clean.cmake has insert to database
+2023-07-14 16:38:15: wd=133 filepath=/windows/DataSorting/mail/build/CMakeFiles/EMailTest.dir/CXX.includecache has insert to database
+2023-07-14 16:38:15: wd=134 filepath=/windows/DataSorting/mail/build/CMakeFiles/EMailTest.dir/depend.internal has insert to database
+2023-07-14 16:38:15: wd=135 filepath=/windows/DataSorting/mail/build/CMakeFiles/EMailTest.dir/depend.make has insert to database
+2023-07-14 16:38:15: wd=136 filepath=/windows/DataSorting/mail/build/CMakeFiles/EMailTest.dir/DependInfo.cmake has insert to database
+2023-07-14 16:38:15: wd=137 filepath=/windows/DataSorting/mail/build/CMakeFiles/EMailTest.dir/flags.make has insert to database
+2023-07-14 16:38:15: wd=138 filepath=/windows/DataSorting/mail/build/CMakeFiles/EMailTest.dir/link.txt has insert to database
+2023-07-14 16:38:15: wd=139 filepath=/windows/DataSorting/mail/build/CMakeFiles/EMailTest.dir/progress.make has insert to database
+2023-07-14 16:38:15: wd=140 filepath=/windows/DataSorting/mail/build/CMakeFiles/EMailTest.dir/SendMail.cpp.o has insert to database
+2023-07-14 16:38:15: wd=141 filepath=/windows/DataSorting/mail/build/CMakeFiles/EMailTest.dir/SendMailTest.cpp.o has insert to database
+2023-07-14 16:38:15: wd=142 filepath=/windows/DataSorting/mail/build/CMakeFiles/Makefile.cmake has insert to database
+2023-07-14 16:38:15: wd=143 filepath=/windows/DataSorting/mail/build/CMakeFiles/Makefile2 has insert to database
+2023-07-14 16:38:15: wd=144 filepath=/windows/DataSorting/mail/build/CMakeFiles/progress.marks has insert to database
+2023-07-14 16:38:15: wd=145 filepath=/windows/DataSorting/mail/build/CMakeFiles/TargetDirectories.txt has insert to database
+2023-07-14 16:38:15: wd=146 filepath=/windows/DataSorting/mail/build/cmake_install.cmake has insert to database
+2023-07-14 16:38:15: wd=147 filepath=/windows/DataSorting/mail/build/EMailTest has insert to database
+2023-07-14 16:38:15: wd=148 filepath=/windows/DataSorting/mail/build/Makefile has insert to database
+2023-07-14 16:38:15: wd=149 filepath=/windows/DataSorting/mail/build.sh has insert to database
+2023-07-14 16:38:15: wd=150 filepath=/windows/DataSorting/mail/CMakeLists.txt has insert to database
+2023-07-14 16:38:15: wd=151 filepath=/windows/DataSorting/mail/SendMail.cpp has insert to database
+2023-07-14 16:38:15: wd=152 filepath=/windows/DataSorting/mail/SendMail.h has insert to database
+2023-07-14 16:38:15: wd=153 filepath=/windows/DataSorting/mail/SendMailTest.cpp has insert to database
+2023-07-14 16:38:15: wd=154 filepath=/windows/DataSorting/sort/sort.cpp has insert to database
+2023-07-14 16:38:15: wd=155 filepath=/windows/DataSorting/sort/sort.h has insert to database
+2023-07-14 16:38:15: wd=156 filepath=/windows/DataSorting/sort/sortTest.cpp has insert to database
+2023-07-14 16:38:15: wd=157 filepath=/windows/DataSorting/sql/build/CMakeCache.txt has insert to database
+2023-07-14 16:38:15: wd=158 filepath=/windows/DataSorting/sql/build/CMakeFiles/3.16.3/CMakeCCompiler.cmake has insert to database
+2023-07-14 16:38:15: wd=159 filepath=/windows/DataSorting/sql/build/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake has insert to database
+2023-07-14 16:38:15: wd=160 filepath=/windows/DataSorting/sql/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin has insert to database
+2023-07-14 16:38:15: wd=161 filepath=/windows/DataSorting/sql/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin has insert to database
+2023-07-14 16:38:15: wd=162 filepath=/windows/DataSorting/sql/build/CMakeFiles/3.16.3/CMakeSystem.cmake has insert to database
+2023-07-14 16:38:15: wd=163 filepath=/windows/DataSorting/sql/build/CMakeFiles/3.16.3/CompilerIdC/a.out has insert to database
+2023-07-14 16:38:15: wd=164 filepath=/windows/DataSorting/sql/build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c has insert to database
+2023-07-14 16:38:15: wd=165 filepath=/windows/DataSorting/sql/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out has insert to database
+2023-07-14 16:38:15: wd=166 filepath=/windows/DataSorting/sql/build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp has insert to database
+2023-07-14 16:38:15: wd=167 filepath=/windows/DataSorting/sql/build/CMakeFiles/cmake.check_cache has insert to database
+2023-07-14 16:38:15: wd=168 filepath=/windows/DataSorting/sql/build/CMakeFiles/CMakeDirectoryInformation.cmake has insert to database
+2023-07-14 16:38:15: wd=169 filepath=/windows/DataSorting/sql/build/CMakeFiles/CMakeOutput.log has insert to database
+2023-07-14 16:38:15: wd=170 filepath=/windows/DataSorting/sql/build/CMakeFiles/Makefile.cmake has insert to database
+2023-07-14 16:38:15: wd=171 filepath=/windows/DataSorting/sql/build/CMakeFiles/Makefile2 has insert to database
+2023-07-14 16:38:15: wd=172 filepath=/windows/DataSorting/sql/build/CMakeFiles/MySQLCreate.dir/build.make has insert to database
+2023-07-14 16:38:15: wd=173 filepath=/windows/DataSorting/sql/build/CMakeFiles/MySQLCreate.dir/cmake_clean.cmake has insert to database
+2023-07-14 16:38:15: wd=174 filepath=/windows/DataSorting/sql/build/CMakeFiles/MySQLCreate.dir/CXX.includecache has insert to database
+2023-07-14 16:38:15: wd=175 filepath=/windows/DataSorting/sql/build/CMakeFiles/MySQLCreate.dir/depend.internal has insert to database
+2023-07-14 16:38:15: wd=176 filepath=/windows/DataSorting/sql/build/CMakeFiles/MySQLCreate.dir/depend.make has insert to database
+2023-07-14 16:38:15: wd=177 filepath=/windows/DataSorting/sql/build/CMakeFiles/MySQLCreate.dir/DependInfo.cmake has insert to database
+2023-07-14 16:38:15: wd=178 filepath=/windows/DataSorting/sql/build/CMakeFiles/MySQLCreate.dir/flags.make has insert to database
+2023-07-14 16:38:15: wd=179 filepath=/windows/DataSorting/sql/build/CMakeFiles/MySQLCreate.dir/link.txt has insert to database
+2023-07-14 16:38:16: wd=180 filepath=/windows/DataSorting/sql/build/CMakeFiles/MySQLCreate.dir/progress.make has insert to database
+2023-07-14 16:38:16: wd=181 filepath=/windows/DataSorting/sql/build/CMakeFiles/MySQLCreate.dir/SqlCreate.cpp.o has insert to database
+2023-07-14 16:38:16: wd=182 filepath=/windows/DataSorting/sql/build/CMakeFiles/MySQLCreate.dir/SqlCreateTest.cpp.o has insert to database
+2023-07-14 16:38:16: wd=183 filepath=/windows/DataSorting/sql/build/CMakeFiles/MySQLCreate.dir/windows/DataSorting/log/log.cpp.o has insert to database
+2023-07-14 16:38:16: wd=184 filepath=/windows/DataSorting/sql/build/CMakeFiles/progress.marks has insert to database
+2023-07-14 16:38:16: wd=185 filepath=/windows/DataSorting/sql/build/CMakeFiles/TargetDirectories.txt has insert to database
+2023-07-14 16:38:16: wd=186 filepath=/windows/DataSorting/sql/build/cmake_install.cmake has insert to database
+2023-07-14 16:38:16: wd=187 filepath=/windows/DataSorting/sql/build/Makefile has insert to database
+2023-07-14 16:38:16: wd=188 filepath=/windows/DataSorting/sql/build/MySQLCreate has insert to database
+2023-07-14 16:38:16: wd=189 filepath=/windows/DataSorting/sql/build.sh has insert to database
+2023-07-14 16:38:16: wd=190 filepath=/windows/DataSorting/sql/CMakeLists.txt has insert to database
+2023-07-14 16:38:16: wd=191 filepath=/windows/DataSorting/sql/SqlCreate.cpp has insert to database
+2023-07-14 16:38:16: wd=192 filepath=/windows/DataSorting/sql/SqlCreate.h has insert to database
+2023-07-14 16:38:16: wd=193 filepath=/windows/DataSorting/sql/SqlCreateTest.cpp has insert to database
+2023-07-14 16:38:16: wd=194 filepath=/windows/DataSorting/threadpool/threadpool.h has insert to database
+2023-07-14 16:38:16: wd=195 filepath=/windows/DataSorting_7.10/.git/COMMIT_EDITMSG has insert to database
+2023-07-14 16:38:16: wd=196 filepath=/windows/DataSorting_7.10/.git/config has insert to database
+2023-07-14 16:38:16: wd=197 filepath=/windows/DataSorting_7.10/.git/description has insert to database
+2023-07-14 16:38:16: wd=198 filepath=/windows/DataSorting_7.10/.git/HEAD has insert to database
+2023-07-14 16:38:16: wd=199 filepath=/windows/DataSorting_7.10/.git/hooks/applypatch-msg.sample has insert to database
+2023-07-14 16:38:16: wd=200 filepath=/windows/DataSorting_7.10/.git/hooks/commit-msg.sample has insert to database
+2023-07-14 16:38:16: wd=201 filepath=/windows/DataSorting_7.10/.git/hooks/fsmonitor-watchman.sample has insert to database
+2023-07-14 16:38:16: wd=202 filepath=/windows/DataSorting_7.10/.git/hooks/post-update.sample has insert to database
+2023-07-14 16:38:16: wd=203 filepath=/windows/DataSorting_7.10/.git/hooks/pre-applypatch.sample has insert to database
+2023-07-14 16:38:16: wd=204 filepath=/windows/DataSorting_7.10/.git/hooks/pre-commit.sample has insert to database
+2023-07-14 16:38:16: wd=205 filepath=/windows/DataSorting_7.10/.git/hooks/pre-merge-commit.sample has insert to database
+2023-07-14 16:38:16: wd=206 filepath=/windows/DataSorting_7.10/.git/hooks/pre-push.sample has insert to database
+2023-07-14 16:38:16: wd=207 filepath=/windows/DataSorting_7.10/.git/hooks/pre-rebase.sample has insert to database
+2023-07-14 16:38:16: wd=208 filepath=/windows/DataSorting_7.10/.git/hooks/pre-receive.sample has insert to database
+2023-07-14 16:38:16: wd=209 filepath=/windows/DataSorting_7.10/.git/hooks/prepare-commit-msg.sample has insert to database
+2023-07-14 16:38:16: wd=210 filepath=/windows/DataSorting_7.10/.git/hooks/push-to-checkout.sample has insert to database
+2023-07-14 16:38:16: wd=211 filepath=/windows/DataSorting_7.10/.git/hooks/sendemail-validate.sample has insert to database
+2023-07-14 16:38:16: wd=212 filepath=/windows/DataSorting_7.10/.git/hooks/update.sample has insert to database
+2023-07-14 16:38:16: wd=213 filepath=/windows/DataSorting_7.10/.git/index has insert to database
+2023-07-14 16:38:16: wd=214 filepath=/windows/DataSorting_7.10/.git/info/exclude has insert to database
+2023-07-14 16:38:16: wd=215 filepath=/windows/DataSorting_7.10/.git/logs/HEAD has insert to database
+2023-07-14 16:38:16: wd=216 filepath=/windows/DataSorting_7.10/.git/logs/refs/heads/main has insert to database
+2023-07-14 16:38:16: wd=217 filepath=/windows/DataSorting_7.10/.git/logs/refs/remotes/origin/main has insert to database
+2023-07-14 16:38:16: wd=218 filepath=/windows/DataSorting_7.10/.git/objects/00/750edc07d6415dcc07ae0351e9397b0222b7ba has insert to database
+2023-07-14 16:38:16: wd=219 filepath=/windows/DataSorting_7.10/.git/objects/03/dc8951540a8bff5e77ddd5932c3ee7684fa8b5 has insert to database
+2023-07-14 16:38:16: wd=220 filepath=/windows/DataSorting_7.10/.git/objects/05/11092be365acd97e8676c7e6496316660d8b60 has insert to database
+2023-07-14 16:38:16: wd=221 filepath=/windows/DataSorting_7.10/.git/objects/05/96409c1c180daa4f22c8cf70ee07ce9ba95d1e has insert to database
+2023-07-14 16:38:16: wd=222 filepath=/windows/DataSorting_7.10/.git/objects/08/5bbaa05574c4b4769055a4e9beb5036df7ec24 has insert to database
+2023-07-14 16:38:16: wd=223 filepath=/windows/DataSorting_7.10/.git/objects/0a/d36cc9a42a2e583d3a2e02d5e30ec60aeab267 has insert to database
+2023-07-14 16:38:16: wd=224 filepath=/windows/DataSorting_7.10/.git/objects/11/b54b14fc0a3538ff6b6296e471d067002ee7a0 has insert to database
+2023-07-14 16:38:16: wd=225 filepath=/windows/DataSorting_7.10/.git/objects/11/b7df452ad29dfd7bf1d9b188856c9e33182403 has insert to database
+2023-07-14 16:38:16: wd=226 filepath=/windows/DataSorting_7.10/.git/objects/19/a9ccae8956d20ea78fcbaa929a195ae4089300 has insert to database
+2023-07-14 16:38:16: wd=227 filepath=/windows/DataSorting_7.10/.git/objects/1f/721c99700bd47bc535c4e2f88daac2f346c35b has insert to database
+2023-07-14 16:38:16: wd=228 filepath=/windows/DataSorting_7.10/.git/objects/26/d63e3129e86fce18bf66f57ca525b97fd8b8fd has insert to database
+2023-07-14 16:38:16: wd=229 filepath=/windows/DataSorting_7.10/.git/objects/27/47d7bca88f5cc056d0c0cd5f9389681915bb19 has insert to database
+2023-07-14 16:38:16: wd=230 filepath=/windows/DataSorting_7.10/.git/objects/28/e0999080c84ed19cb4181a7a157d2d3a916e07 has insert to database
+2023-07-14 16:38:16: wd=231 filepath=/windows/DataSorting_7.10/.git/objects/2a/4af9103f4d217ddd648a608520176375c5b98d has insert to database
+2023-07-14 16:38:16: wd=232 filepath=/windows/DataSorting_7.10/.git/objects/2a/9ecdd9108932d145315f3e168ee49382bba30e has insert to database
+2023-07-14 16:38:16: wd=233 filepath=/windows/DataSorting_7.10/.git/objects/2d/66298588989dc5d404dae0025b8bf4e952498e has insert to database
+2023-07-14 16:38:16: wd=234 filepath=/windows/DataSorting_7.10/.git/objects/2e/28d794eb03bc7ac2f8fd53820a954358ac6b4c has insert to database
+2023-07-14 16:38:16: wd=235 filepath=/windows/DataSorting_7.10/.git/objects/3b/02370e9d9a8f9b672cc36a38e8a16d71e6c1fa has insert to database
+2023-07-14 16:38:16: wd=236 filepath=/windows/DataSorting_7.10/.git/objects/3c/b473347ed50f5d22bbb94e44beb5fc121da4db has insert to database
+2023-07-14 16:38:16: wd=237 filepath=/windows/DataSorting_7.10/.git/objects/3d/ccd731726d7faa8b29d8d7dba3b981a53ca497 has insert to database
+2023-07-14 16:38:16: wd=238 filepath=/windows/DataSorting_7.10/.git/objects/47/34f921155fc93065951ba6a29b1a801e88996a has insert to database
+2023-07-14 16:38:16: wd=239 filepath=/windows/DataSorting_7.10/.git/objects/47/71738ed41d648851a8660325cc6b66ecb4d56d has insert to database
+2023-07-14 16:38:16: wd=240 filepath=/windows/DataSorting_7.10/.git/objects/49/536caaafd3be4a72b169a81168b3681c1e106b has insert to database
+2023-07-14 16:38:16: wd=241 filepath=/windows/DataSorting_7.10/.git/objects/4c/6a26867e072126d33fc802b14e1ee20cbb4384 has insert to database
+2023-07-14 16:38:16: wd=242 filepath=/windows/DataSorting_7.10/.git/objects/57/50cd6f85fb8415ce16b4bd9385ffae24ba56b3 has insert to database
+2023-07-14 16:38:16: wd=243 filepath=/windows/DataSorting_7.10/.git/objects/58/1477e0ecf68056d664140938e63741e1163100 has insert to database
+2023-07-14 16:38:16: wd=244 filepath=/windows/DataSorting_7.10/.git/objects/5a/dacc0c34d8bf7c9f168d422b063abd31f0e63e has insert to database
+2023-07-14 16:38:16: wd=245 filepath=/windows/DataSorting_7.10/.git/objects/64/6c4e72a131def9edaa6c04644657b42b878c94 has insert to database
+2023-07-14 16:38:16: wd=246 filepath=/windows/DataSorting_7.10/.git/objects/64/cc4fae8904f57e36c24ec7169ed6df5069d88b has insert to database
+2023-07-14 16:38:16: wd=247 filepath=/windows/DataSorting_7.10/.git/objects/66/a78f187414cc208aaa737873b38ed7468deb2c has insert to database
+2023-07-14 16:38:16: wd=248 filepath=/windows/DataSorting_7.10/.git/objects/67/dcdb323a54e4bd80c19a9b646befd08c4429e0 has insert to database
+2023-07-14 16:38:16: wd=249 filepath=/windows/DataSorting_7.10/.git/objects/67/fd280013d73c8eaaadf3a011610802f2a37ec9 has insert to database
+2023-07-14 16:38:16: wd=250 filepath=/windows/DataSorting_7.10/.git/objects/67/fdffaebdd9f9d69bef0a79c49a2c9fbe29464b has insert to database
+2023-07-14 16:38:16: wd=251 filepath=/windows/DataSorting_7.10/.git/objects/68/d79913bdc8ae4f6082564716b423391f6f7e14 has insert to database
+2023-07-14 16:38:16: wd=252 filepath=/windows/DataSorting_7.10/.git/objects/6a/9dc74f48190611094be92ae37d081d83beb533 has insert to database
+2023-07-14 16:38:16: wd=253 filepath=/windows/DataSorting_7.10/.git/objects/6b/53151d3e12eba089352f0a1a6d5fd38ca74428 has insert to database
+2023-07-14 16:38:16: wd=254 filepath=/windows/DataSorting_7.10/.git/objects/6e/4fcbaea214ed994d125ffeb1e151d7f34f1e82 has insert to database
+2023-07-14 16:38:16: wd=255 filepath=/windows/DataSorting_7.10/.git/objects/71/c2ceda86a2fae89d661d131b89af3990e37838 has insert to database
+2023-07-14 16:38:16: wd=256 filepath=/windows/DataSorting_7.10/.git/objects/72/2faa803f6df8628261ccd5da97b74fa64c0114 has insert to database
+2023-07-14 16:38:16: wd=257 filepath=/windows/DataSorting_7.10/.git/objects/7f/8780b0bd5128ffc0212d99158836576a9a806f has insert to database
+2023-07-14 16:38:17: wd=258 filepath=/windows/DataSorting_7.10/.git/objects/83/e86dd8cd85f9f7554f51122b8cd08412ec01f2 has insert to database
+2023-07-14 16:38:17: wd=259 filepath=/windows/DataSorting_7.10/.git/objects/84/5cd7a2975a6f3d44cb5a504afd90a25b8c68d6 has insert to database
+2023-07-14 16:38:17: wd=260 filepath=/windows/DataSorting_7.10/.git/objects/85/984d753b2f39384841d4e81fd0f2225061bc74 has insert to database
+2023-07-14 16:38:17: wd=261 filepath=/windows/DataSorting_7.10/.git/objects/86/bdb86da18edd6543bd25a0aabedc1449dac935 has insert to database
+2023-07-14 16:38:17: wd=262 filepath=/windows/DataSorting_7.10/.git/objects/8e/ff0c6e12705968f3216e6779b24ce38f5a69ed has insert to database
+2023-07-14 16:38:17: wd=263 filepath=/windows/DataSorting_7.10/.git/objects/93/c177c4f472a82fea7768286525a1c3342b34b3 has insert to database
+2023-07-14 16:38:17: wd=264 filepath=/windows/DataSorting_7.10/.git/objects/97/dfe5c22869b6e1e6d13021c0bc40445ebce980 has insert to database
+2023-07-14 16:38:17: wd=265 filepath=/windows/DataSorting_7.10/.git/objects/99/b0ed7968528d3bbb7fd62c21e4c4bff3205450 has insert to database
+2023-07-14 16:38:17: wd=266 filepath=/windows/DataSorting_7.10/.git/objects/9c/7e6ff2d97c21de053eeb6dbed121da48481b08 has insert to database
+2023-07-14 16:38:17: wd=267 filepath=/windows/DataSorting_7.10/.git/objects/9d/4f89e76fc37ffe9649aeaf304254db8fbb6403 has insert to database
+2023-07-14 16:38:17: wd=268 filepath=/windows/DataSorting_7.10/.git/objects/9e/0e71d8c6b896ec560f07199f9cc974e84817a5 has insert to database
+2023-07-14 16:38:17: wd=269 filepath=/windows/DataSorting_7.10/.git/objects/a0/5e5f6bedecbe3b4ff7878285c569930d1d69c8 has insert to database
+2023-07-14 16:38:17: wd=270 filepath=/windows/DataSorting_7.10/.git/objects/a1/140c3ce4c1922f296ac56f27442a0c0c16d38b has insert to database
+2023-07-14 16:38:17: wd=271 filepath=/windows/DataSorting_7.10/.git/objects/a8/7bcbb9749a54b747fa0c92675307efaeca649f has insert to database
+2023-07-14 16:38:17: wd=272 filepath=/windows/DataSorting_7.10/.git/objects/ae/0f49908c89c0ae48d68d46e0157414893eb334 has insert to database
+2023-07-14 16:38:17: wd=273 filepath=/windows/DataSorting_7.10/.git/objects/b1/860a3dd40b90b19fab68ce7a4bf1a8fee6135d has insert to database
+2023-07-14 16:38:17: wd=274 filepath=/windows/DataSorting_7.10/.git/objects/b1/c0807ef942f8a1c41b965f191acb43ede9d644 has insert to database
+2023-07-14 16:38:17: wd=275 filepath=/windows/DataSorting_7.10/.git/objects/b4/a75f238fa9a0bcd02843b7082bd708584ced39 has insert to database
+2023-07-14 16:38:17: wd=276 filepath=/windows/DataSorting_7.10/.git/objects/b6/ff3ba2ee8164f29c4f17b203e7fa2b6147bab5 has insert to database
+2023-07-14 16:38:17: wd=277 filepath=/windows/DataSorting_7.10/.git/objects/b8/ab8bf03e6eb027fb75735722e7efdfb8e73fb9 has insert to database
+2023-07-14 16:38:17: wd=278 filepath=/windows/DataSorting_7.10/.git/objects/b9/3418c6ed69feaf1b5c2feb9592bbdb5a5f042c has insert to database
+2023-07-14 16:38:17: wd=279 filepath=/windows/DataSorting_7.10/.git/objects/cd/9b9d81179163eca2c1c05c8f70ba6f1a5735a8 has insert to database
+2023-07-14 16:38:17: wd=280 filepath=/windows/DataSorting_7.10/.git/objects/cd/cce3fefd730706d4facce102a085a6d4dad818 has insert to database
+2023-07-14 16:38:17: wd=281 filepath=/windows/DataSorting_7.10/.git/objects/ce/ed4a7ab27c376110920f56b20bd6b97e82ed69 has insert to database
+2023-07-14 16:38:17: wd=282 filepath=/windows/DataSorting_7.10/.git/objects/cf/102e17779e972156a6f987f024af935c751fcf has insert to database
+2023-07-14 16:38:17: wd=283 filepath=/windows/DataSorting_7.10/.git/objects/d1/94e9ef144db772a8310aede82008522e0032a0 has insert to database
+2023-07-14 16:38:17: wd=284 filepath=/windows/DataSorting_7.10/.git/objects/d7/4902ee61d6f630feab179bb54a2aa42337effe has insert to database
+2023-07-14 16:38:17: wd=285 filepath=/windows/DataSorting_7.10/.git/objects/de/ff9c2af7a1e1454117c3851242c02e6e2f0771 has insert to database
+2023-07-14 16:38:17: wd=286 filepath=/windows/DataSorting_7.10/.git/objects/df/c5d501b2a4eb9a445af3f93c7ad29dd7c92b74 has insert to database
+2023-07-14 16:38:17: wd=287 filepath=/windows/DataSorting_7.10/.git/objects/e1/a367a2bad94b3f7ffd96a1df9839584204f0d0 has insert to database
+2023-07-14 16:38:17: wd=288 filepath=/windows/DataSorting_7.10/.git/objects/e8/00dde2b0e690cf78fae9c02389b674fc791eb2 has insert to database
+2023-07-14 16:38:17: wd=289 filepath=/windows/DataSorting_7.10/.git/objects/f0/6f671de303ede769f53e5a92708795ff8c1cdb has insert to database
+2023-07-14 16:38:17: wd=290 filepath=/windows/DataSorting_7.10/.git/refs/heads/main has insert to database
+2023-07-14 16:38:17: wd=291 filepath=/windows/DataSorting_7.10/.git/refs/remotes/origin/main has insert to database
+2023-07-14 16:38:17: wd=292 filepath=/windows/DataSorting_7.10/mail/build/CMakeCache.txt has insert to database
+2023-07-14 16:38:17: wd=293 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/3.16.3/CMakeCCompiler.cmake has insert to database
+2023-07-14 16:38:17: wd=294 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake has insert to database
+2023-07-14 16:38:17: wd=295 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin has insert to database
+2023-07-14 16:38:17: wd=296 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin has insert to database
+2023-07-14 16:38:17: wd=297 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/3.16.3/CMakeSystem.cmake has insert to database
+2023-07-14 16:38:17: wd=298 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/3.16.3/CompilerIdC/a.out has insert to database
+2023-07-14 16:38:17: wd=299 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c has insert to database
+2023-07-14 16:38:17: wd=300 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out has insert to database
+2023-07-14 16:38:17: wd=301 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp has insert to database
+2023-07-14 16:38:17: wd=302 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/cmake.check_cache has insert to database
+2023-07-14 16:38:17: wd=303 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/CMakeDirectoryInformation.cmake has insert to database
+2023-07-14 16:38:17: wd=304 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/CMakeOutput.log has insert to database
+2023-07-14 16:38:17: wd=305 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/EMailTest.dir/build.make has insert to database
+2023-07-14 16:38:17: wd=306 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/EMailTest.dir/cmake_clean.cmake has insert to database
+2023-07-14 16:38:17: wd=307 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/EMailTest.dir/CXX.includecache has insert to database
+2023-07-14 16:38:17: wd=308 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/EMailTest.dir/depend.internal has insert to database
+2023-07-14 16:38:17: wd=309 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/EMailTest.dir/depend.make has insert to database
+2023-07-14 16:38:17: wd=310 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/EMailTest.dir/DependInfo.cmake has insert to database
+2023-07-14 16:38:17: wd=311 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/EMailTest.dir/flags.make has insert to database
+2023-07-14 16:38:17: wd=312 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/EMailTest.dir/link.txt has insert to database
+2023-07-14 16:38:17: wd=313 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/EMailTest.dir/progress.make has insert to database
+2023-07-14 16:38:17: wd=314 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/EMailTest.dir/SendMail.cpp.o has insert to database
+2023-07-14 16:38:17: wd=315 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/EMailTest.dir/SendMailTest.cpp.o has insert to database
+2023-07-14 16:38:17: wd=316 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/Makefile.cmake has insert to database
+2023-07-14 16:38:17: wd=317 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/Makefile2 has insert to database
+2023-07-14 16:38:17: wd=318 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/progress.marks has insert to database
+2023-07-14 16:38:17: wd=319 filepath=/windows/DataSorting_7.10/mail/build/CMakeFiles/TargetDirectories.txt has insert to database
+2023-07-14 16:38:17: wd=320 filepath=/windows/DataSorting_7.10/mail/build/cmake_install.cmake has insert to database
+2023-07-14 16:38:17: wd=321 filepath=/windows/DataSorting_7.10/mail/build/EMailTest has insert to database
+2023-07-14 16:38:17: wd=322 filepath=/windows/DataSorting_7.10/mail/build/Makefile has insert to database
+2023-07-14 16:38:17: wd=323 filepath=/windows/DataSorting_7.10/mail/build.sh has insert to database
+2023-07-14 16:38:17: wd=324 filepath=/windows/DataSorting_7.10/mail/CMakeLists.txt has insert to database
+2023-07-14 16:38:17: wd=325 filepath=/windows/DataSorting_7.10/mail/SendMail.cpp has insert to database
+2023-07-14 16:38:17: wd=326 filepath=/windows/DataSorting_7.10/mail/SendMail.h has insert to database
+2023-07-14 16:38:17: wd=327 filepath=/windows/DataSorting_7.10/mail/SendMailTest.cpp has insert to database
+2023-07-14 16:38:17: wd=328 filepath=/windows/DataSorting_7.10/sql/build/CMakeCache.txt has insert to database
+2023-07-14 16:38:17: wd=329 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/3.16.3/CMakeCCompiler.cmake has insert to database
+2023-07-14 16:38:17: wd=330 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake has insert to database
+2023-07-14 16:38:17: wd=331 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin has insert to database
+2023-07-14 16:38:17: wd=332 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin has insert to database
+2023-07-14 16:38:17: wd=333 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/3.16.3/CMakeSystem.cmake has insert to database
+2023-07-14 16:38:17: wd=334 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/3.16.3/CompilerIdC/a.out has insert to database
+2023-07-14 16:38:17: wd=335 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c has insert to database
+2023-07-14 16:38:17: wd=336 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out has insert to database
+2023-07-14 16:38:17: wd=337 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp has insert to database
+2023-07-14 16:38:17: wd=338 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/cmake.check_cache has insert to database
+2023-07-14 16:38:17: wd=339 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/CMakeDirectoryInformation.cmake has insert to database
+2023-07-14 16:38:17: wd=340 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/CMakeOutput.log has insert to database
+2023-07-14 16:38:17: wd=341 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/Makefile.cmake has insert to database
+2023-07-14 16:38:17: wd=342 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/Makefile2 has insert to database
+2023-07-14 16:38:17: wd=343 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/MySQLCreate.dir/build.make has insert to database
+2023-07-14 16:38:17: wd=344 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/MySQLCreate.dir/cmake_clean.cmake has insert to database
+2023-07-14 16:38:17: wd=345 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/MySQLCreate.dir/CXX.includecache has insert to database
+2023-07-14 16:38:17: wd=346 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/MySQLCreate.dir/depend.internal has insert to database
+2023-07-14 16:38:18: wd=347 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/MySQLCreate.dir/depend.make has insert to database
+2023-07-14 16:38:18: wd=348 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/MySQLCreate.dir/DependInfo.cmake has insert to database
+2023-07-14 16:38:18: wd=349 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/MySQLCreate.dir/flags.make has insert to database
+2023-07-14 16:38:18: wd=350 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/MySQLCreate.dir/link.txt has insert to database
+2023-07-14 16:38:18: wd=351 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/MySQLCreate.dir/progress.make has insert to database
+2023-07-14 16:38:18: wd=352 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/MySQLCreate.dir/SqlCreate.cpp.o has insert to database
+2023-07-14 16:38:18: wd=353 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/MySQLCreate.dir/SqlCreateTest.cpp.o has insert to database
+2023-07-14 16:38:18: wd=354 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/progress.marks has insert to database
+2023-07-14 16:38:18: wd=355 filepath=/windows/DataSorting_7.10/sql/build/CMakeFiles/TargetDirectories.txt has insert to database
+2023-07-14 16:38:18: wd=356 filepath=/windows/DataSorting_7.10/sql/build/cmake_install.cmake has insert to database
+2023-07-14 16:38:18: wd=357 filepath=/windows/DataSorting_7.10/sql/build/Makefile has insert to database
+2023-07-14 16:38:18: wd=358 filepath=/windows/DataSorting_7.10/sql/build/MySQLCreate has insert to database
+2023-07-14 16:38:18: wd=359 filepath=/windows/DataSorting_7.10/sql/build.sh has insert to database
+2023-07-14 16:38:18: wd=360 filepath=/windows/DataSorting_7.10/sql/CMakeLists.txt has insert to database
+2023-07-14 16:38:18: wd=361 filepath=/windows/DataSorting_7.10/sql/SqlCreate.cpp has insert to database
+2023-07-14 16:38:18: wd=362 filepath=/windows/DataSorting_7.10/sql/SqlCreate.h has insert to database
+2023-07-14 16:38:18: wd=363 filepath=/windows/DataSorting_7.10/sql/SqlCreateTest.cpp has insert to database
+2023-07-14 16:38:18: wd=364 filepath=/windows/fastCGI/04_nginx/nginx-1.10.1.tar.gz has insert to database
+2023-07-14 16:38:18: wd=365 filepath=/windows/fastCGI/04_nginx/nginx.conf has insert to database
+2023-07-14 16:38:18: wd=366 filepath=/windows/fastCGI/04_nginx/Nginx配置说明.doc has insert to database
+2023-07-14 16:38:18: wd=367 filepath=/windows/fastCGI/04_nginx/openssl-1.0.1t.tar.gz has insert to database
+2023-07-14 16:38:18: wd=368 filepath=/windows/fastCGI/04_nginx/pcre-8.40.tar.bz2 has insert to database
+2023-07-14 16:38:18: wd=369 filepath=/windows/fastCGI/04_nginx/zlib-1.2.11.tar.gz has insert to database
+2023-07-14 16:38:18: wd=370 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/acinclude.m4 has insert to database
+2023-07-14 16:38:18: wd=371 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/aclocal.m4 has insert to database
+2023-07-14 16:38:18: wd=372 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/cgi-fcgi/.deps/cgi-fcgi.Po has insert to database
+2023-07-14 16:38:18: wd=373 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/cgi-fcgi/.libs/cgi-fcgi has insert to database
+2023-07-14 16:38:18: wd=374 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/cgi-fcgi/cgi-fcgi has insert to database
+2023-07-14 16:38:18: wd=375 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/cgi-fcgi/cgi-fcgi.c has insert to database
+2023-07-14 16:38:18: wd=376 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/cgi-fcgi/cgi-fcgi.mak has insert to database
+2023-07-14 16:38:18: wd=377 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/cgi-fcgi/cgi-fcgi.o has insert to database
+2023-07-14 16:38:18: wd=378 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/cgi-fcgi/Makefile has insert to database
+2023-07-14 16:38:18: wd=379 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/cgi-fcgi/Makefile.am has insert to database
+2023-07-14 16:38:18: wd=380 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/cgi-fcgi/Makefile.in has insert to database
+2023-07-14 16:38:18: wd=381 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/compile has insert to database
+2023-07-14 16:38:18: wd=382 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/config.guess has insert to database
+2023-07-14 16:38:18: wd=383 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/config.log has insert to database
+2023-07-14 16:38:18: wd=384 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/config.status has insert to database
+2023-07-14 16:38:18: wd=385 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/config.sub has insert to database
+2023-07-14 16:38:18: wd=386 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/configure has insert to database
+2023-07-14 16:38:18: wd=387 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/configure.in has insert to database
+2023-07-14 16:38:18: wd=388 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/depcomp has insert to database
+2023-07-14 16:38:18: wd=389 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/cgi-fcgi.1 has insert to database
+2023-07-14 16:38:18: wd=390 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fastcgi-prog-guide/apaman.htm has insert to database
+2023-07-14 16:38:18: wd=391 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fastcgi-prog-guide/ap_guida.htm has insert to database
+2023-07-14 16:38:18: wd=392 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fastcgi-prog-guide/ap_guide.htm has insert to database
+2023-07-14 16:38:18: wd=393 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fastcgi-prog-guide/ch1inta1.gif has insert to database
+2023-07-14 16:38:18: wd=394 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fastcgi-prog-guide/ch1intra.gif has insert to database
+2023-07-14 16:38:18: wd=395 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fastcgi-prog-guide/ch1intro.htm has insert to database
+2023-07-14 16:38:18: wd=396 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fastcgi-prog-guide/ch2c.htm has insert to database
+2023-07-14 16:38:18: wd=397 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fastcgi-prog-guide/ch3perl.htm has insert to database
+2023-07-14 16:38:18: wd=398 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fastcgi-prog-guide/ch4tcl.htm has insert to database
+2023-07-14 16:38:18: wd=399 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fastcgi-prog-guide/cover.htm has insert to database
+2023-07-14 16:38:18: wd=400 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fastcgi-prog-guide/covera.gif has insert to database
+2023-07-14 16:38:18: wd=401 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fastcgi-whitepaper/fastcgi.htm has insert to database
+2023-07-14 16:38:18: wd=402 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fastcgi-whitepaper/img00001.gif has insert to database
+2023-07-14 16:38:18: wd=403 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fastcgi-whitepaper/img00002.gif has insert to database
+2023-07-14 16:38:18: wd=404 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fastcgi-whitepaper/img00003.gif has insert to database
+2023-07-14 16:38:18: wd=405 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fcgi-devel-kit.htm has insert to database
+2023-07-14 16:38:18: wd=406 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fcgi-java.htm has insert to database
+2023-07-14 16:38:18: wd=407 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fcgi-perf.htm has insert to database
+2023-07-14 16:38:18: wd=408 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fcgi-perl.htm has insert to database
+2023-07-14 16:38:18: wd=409 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fcgi-spec.html has insert to database
+2023-07-14 16:38:18: wd=410 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/fcgi-tcl.htm has insert to database
+2023-07-14 16:38:18: wd=411 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/FCGI_Accept.3 has insert to database
+2023-07-14 16:38:18: wd=412 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/FCGI_Finish.3 has insert to database
+2023-07-14 16:38:18: wd=413 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/FCGI_SetExitStatus.3 has insert to database
+2023-07-14 16:38:18: wd=414 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/FCGI_StartFilterData.3 has insert to database
+2023-07-14 16:38:18: wd=415 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/omi-logo.gif has insert to database
+2023-07-14 16:38:18: wd=416 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/overview.html has insert to database
+2023-07-14 16:38:18: wd=417 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/doc/www5-api-workshop.html has insert to database
+2023-07-14 16:38:18: wd=418 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/.deps/authorizer.Po has insert to database
+2023-07-14 16:38:18: wd=419 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/.deps/echo-cpp.Po has insert to database
+2023-07-14 16:38:18: wd=420 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/.deps/echo-x.Po has insert to database
+2023-07-14 16:38:18: wd=421 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/.deps/echo.Po has insert to database
+2023-07-14 16:38:18: wd=422 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/.deps/log-dump.Po has insert to database
+2023-07-14 16:38:18: wd=423 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/.deps/size.Po has insert to database
+2023-07-14 16:38:18: wd=424 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/.deps/threaded-threaded.Po has insert to database
+2023-07-14 16:38:18: wd=425 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/.libs/authorizer has insert to database
+2023-07-14 16:38:18: wd=426 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/.libs/echo has insert to database
+2023-07-14 16:38:18: wd=427 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/.libs/echo-cpp has insert to database
+2023-07-14 16:38:18: wd=428 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/.libs/echo-x has insert to database
+2023-07-14 16:38:18: wd=429 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/.libs/log-dump has insert to database
+2023-07-14 16:38:18: wd=430 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/.libs/size has insert to database
+2023-07-14 16:38:18: wd=431 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/.libs/threaded has insert to database
+2023-07-14 16:38:18: wd=432 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/authorizer has insert to database
+2023-07-14 16:38:18: wd=433 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/authorizer.c has insert to database
+2023-07-14 16:38:18: wd=434 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/authorizer.mak has insert to database
+2023-07-14 16:38:18: wd=435 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/authorizer.o has insert to database
+2023-07-14 16:38:18: wd=436 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/echo has insert to database
+2023-07-14 16:38:19: wd=437 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/echo-cpp has insert to database
+2023-07-14 16:38:19: wd=438 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/echo-cpp.cpp has insert to database
+2023-07-14 16:38:19: wd=439 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/echo-cpp.mak has insert to database
+2023-07-14 16:38:19: wd=440 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/echo-cpp.o has insert to database
+2023-07-14 16:38:19: wd=441 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/echo-x has insert to database
+2023-07-14 16:38:19: wd=442 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/echo-x.c has insert to database
+2023-07-14 16:38:19: wd=443 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/echo-x.o has insert to database
+2023-07-14 16:38:19: wd=444 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/echo.c has insert to database
+2023-07-14 16:38:19: wd=445 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/echo.mak has insert to database
+2023-07-14 16:38:19: wd=446 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/echo.o has insert to database
+2023-07-14 16:38:19: wd=447 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/echox.mak has insert to database
+2023-07-14 16:38:19: wd=448 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/log-dump has insert to database
+2023-07-14 16:38:19: wd=449 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/log-dump.c has insert to database
+2023-07-14 16:38:19: wd=450 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/log-dump.o has insert to database
+2023-07-14 16:38:19: wd=451 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/Makefile has insert to database
+2023-07-14 16:38:19: wd=452 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/Makefile.am has insert to database
+2023-07-14 16:38:19: wd=453 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/Makefile.in has insert to database
+2023-07-14 16:38:19: wd=454 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/size has insert to database
+2023-07-14 16:38:19: wd=455 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/size.c has insert to database
+2023-07-14 16:38:19: wd=456 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/size.mak has insert to database
+2023-07-14 16:38:19: wd=457 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/size.o has insert to database
+2023-07-14 16:38:19: wd=458 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/threaded has insert to database
+2023-07-14 16:38:19: wd=459 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/threaded-threaded.o has insert to database
+2023-07-14 16:38:19: wd=460 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/examples/threaded.c has insert to database
+2023-07-14 16:38:19: wd=461 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/fcgi_config.h has insert to database
+2023-07-14 16:38:19: wd=462 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/fcgi_config.h.in has insert to database
+2023-07-14 16:38:19: wd=463 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/images/aplib-hd.gif has insert to database
+2023-07-14 16:38:19: wd=464 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/images/divider.gif has insert to database
+2023-07-14 16:38:19: wd=465 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/images/fcgi-hd.gif has insert to database
+2023-07-14 16:38:19: wd=466 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/images/mail-hd.gif has insert to database
+2023-07-14 16:38:19: wd=467 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/images/navbar.gif has insert to database
+2023-07-14 16:38:19: wd=468 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/images/serv-hd.gif has insert to database
+2023-07-14 16:38:19: wd=469 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/images/words-hd.gif has insert to database
+2023-07-14 16:38:19: wd=470 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/include/fastcgi.h has insert to database
+2023-07-14 16:38:19: wd=471 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/include/fcgiapp.h has insert to database
+2023-07-14 16:38:19: wd=472 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/include/fcgimisc.h has insert to database
+2023-07-14 16:38:19: wd=473 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/include/fcgio.h has insert to database
+2023-07-14 16:38:19: wd=474 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/include/fcgios.h has insert to database
+2023-07-14 16:38:19: wd=475 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/include/fcgi_config_x86.h has insert to database
+2023-07-14 16:38:19: wd=476 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/include/fcgi_stdio.h has insert to database
+2023-07-14 16:38:19: wd=477 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/include/Makefile has insert to database
+2023-07-14 16:38:19: wd=478 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/include/Makefile.am has insert to database
+2023-07-14 16:38:19: wd=479 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/include/Makefile.in has insert to database
+2023-07-14 16:38:19: wd=480 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/install-sh has insert to database
+2023-07-14 16:38:19: wd=481 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/java/FCGIGlobalDefs.java has insert to database
+2023-07-14 16:38:19: wd=482 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/java/FCGIInputStream.java has insert to database
+2023-07-14 16:38:19: wd=483 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/java/FCGIInterface.java has insert to database
+2023-07-14 16:38:19: wd=484 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/java/FCGIMessage.java has insert to database
+2023-07-14 16:38:19: wd=485 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/java/FCGIOutputStream.java has insert to database
+2023-07-14 16:38:19: wd=486 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/java/FCGIRequest.java has insert to database
+2023-07-14 16:38:19: wd=487 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.deps/fcgio.Plo has insert to database
+2023-07-14 16:38:19: wd=488 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.deps/libfcgi_la-fcgiapp.Plo has insert to database
+2023-07-14 16:38:19: wd=489 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.deps/libfcgi_la-fcgi_stdio.Plo has insert to database
+2023-07-14 16:38:19: wd=490 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.deps/libfcgi_la-os_unix.Plo has insert to database
+2023-07-14 16:38:19: wd=491 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/fcgio.o has insert to database
+2023-07-14 16:38:19: wd=492 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/libfcgi++.a has insert to database
+2023-07-14 16:38:19: wd=493 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/libfcgi++.la has insert to database
+2023-07-14 16:38:19: wd=494 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/libfcgi++.lai has insert to database
+2023-07-14 16:38:19: wd=495 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/libfcgi++.so has insert to database
+2023-07-14 16:38:19: wd=496 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/libfcgi++.so.0 has insert to database
+2023-07-14 16:38:19: wd=497 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/libfcgi++.so.0.0.0 has insert to database
+2023-07-14 16:38:19: wd=498 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/libfcgi++.so.0.0.0T has insert to database
+2023-07-14 16:38:19: wd=499 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/libfcgi.a has insert to database
+2023-07-14 16:38:19: wd=500 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/libfcgi.la has insert to database
+2023-07-14 16:38:19: wd=501 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/libfcgi.lai has insert to database
+2023-07-14 16:38:19: wd=502 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/libfcgi.so has insert to database
+2023-07-14 16:38:19: wd=503 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/libfcgi.so.0 has insert to database
+2023-07-14 16:38:19: wd=504 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/libfcgi.so.0.0.0 has insert to database
+2023-07-14 16:38:19: wd=505 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/libfcgi_la-fcgiapp.o has insert to database
+2023-07-14 16:38:19: wd=506 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/libfcgi_la-fcgi_stdio.o has insert to database
+2023-07-14 16:38:19: wd=507 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/.libs/libfcgi_la-os_unix.o has insert to database
+2023-07-14 16:38:19: wd=508 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/fcgiapp.c has insert to database
+2023-07-14 16:38:19: wd=509 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/fcgio.cpp has insert to database
+2023-07-14 16:38:19: wd=510 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/fcgio.lo has insert to database
+2023-07-14 16:38:19: wd=511 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/fcgio.o has insert to database
+2023-07-14 16:38:19: wd=512 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/fcgi_stdio.c has insert to database
+2023-07-14 16:38:19: wd=513 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/libfcgi++.la has insert to database
+2023-07-14 16:38:19: wd=514 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/libfcgi.la has insert to database
+2023-07-14 16:38:19: wd=515 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/libfcgi.mak has insert to database
+2023-07-14 16:38:19: wd=516 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/libfcgi_la-fcgiapp.lo has insert to database
+2023-07-14 16:38:19: wd=517 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/libfcgi_la-fcgiapp.o has insert to database
+2023-07-14 16:38:19: wd=518 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/libfcgi_la-fcgi_stdio.lo has insert to database
+2023-07-14 16:38:19: wd=519 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/libfcgi_la-fcgi_stdio.o has insert to database
+2023-07-14 16:38:19: wd=520 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/libfcgi_la-os_unix.lo has insert to database
+2023-07-14 16:38:19: wd=521 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/libfcgi_la-os_unix.o has insert to database
+2023-07-14 16:38:19: wd=522 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/Makefile has insert to database
+2023-07-14 16:38:19: wd=523 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/Makefile.am has insert to database
+2023-07-14 16:38:19: wd=524 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/Makefile.in has insert to database
+2023-07-14 16:38:19: wd=525 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/os_unix.c has insert to database
+2023-07-14 16:38:20: wd=526 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libfcgi/os_win32.c has insert to database
+2023-07-14 16:38:20: wd=527 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/libtool has insert to database
+2023-07-14 16:38:20: wd=528 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/LICENSE.TERMS has insert to database
+2023-07-14 16:38:20: wd=529 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/ltmain.sh has insert to database
+2023-07-14 16:38:20: wd=530 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/Makefile has insert to database
+2023-07-14 16:38:20: wd=531 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/Makefile.am has insert to database
+2023-07-14 16:38:20: wd=532 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/Makefile.in has insert to database
+2023-07-14 16:38:20: wd=533 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/Makefile.nt has insert to database
+2023-07-14 16:38:20: wd=534 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/missing has insert to database
+2023-07-14 16:38:20: wd=535 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/mkinstalldirs has insert to database
+2023-07-14 16:38:20: wd=536 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/perl/aclocal.m4 has insert to database
+2023-07-14 16:38:20: wd=537 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/perl/ChangeLog has insert to database
+2023-07-14 16:38:20: wd=538 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/perl/configure has insert to database
+2023-07-14 16:38:20: wd=539 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/perl/configure.in has insert to database
+2023-07-14 16:38:20: wd=540 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/perl/echo.PL has insert to database
+2023-07-14 16:38:20: wd=541 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/perl/FCGI.PL has insert to database
+2023-07-14 16:38:20: wd=542 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/perl/FCGI.XL has insert to database
+2023-07-14 16:38:20: wd=543 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/perl/fcgi_config.h.in has insert to database
+2023-07-14 16:38:20: wd=544 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/perl/Makefile.PL has insert to database
+2023-07-14 16:38:20: wd=545 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/perl/MANIFEST has insert to database
+2023-07-14 16:38:20: wd=546 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/perl/oldinterface.pod has insert to database
+2023-07-14 16:38:20: wd=547 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/perl/README has insert to database
+2023-07-14 16:38:20: wd=548 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/perl/remote.PL has insert to database
+2023-07-14 16:38:20: wd=549 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/perl/threaded.PL has insert to database
+2023-07-14 16:38:20: wd=550 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/perl/typemap has insert to database
+2023-07-14 16:38:20: wd=551 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/perl/version.pm has insert to database
+2023-07-14 16:38:20: wd=552 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/README has insert to database
+2023-07-14 16:38:20: wd=553 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/stamp-h1 has insert to database
+2023-07-14 16:38:20: wd=554 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/Win32/authorizer.dsp has insert to database
+2023-07-14 16:38:20: wd=555 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/Win32/cgifcgi.dsp has insert to database
+2023-07-14 16:38:20: wd=556 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/Win32/config_h.dsp has insert to database
+2023-07-14 16:38:20: wd=557 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/Win32/echo-cpp.dsp has insert to database
+2023-07-14 16:38:20: wd=558 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/Win32/echo.dsp has insert to database
+2023-07-14 16:38:20: wd=559 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/Win32/echox.dsp has insert to database
+2023-07-14 16:38:20: wd=560 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/Win32/FastCGI.dsw has insert to database
+2023-07-14 16:38:20: wd=561 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/Win32/libfcgi.dsp has insert to database
+2023-07-14 16:38:20: wd=562 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/Win32/logdump.dsp has insert to database
+2023-07-14 16:38:20: wd=563 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/Win32/size.dsp has insert to database
+2023-07-14 16:38:20: wd=564 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249/Win32/threaded.dsp has insert to database
+2023-07-14 16:38:20: wd=565 filepath=/windows/fastCGI/05_FastCGI/fcgi-2.4.1-SNAP-0910052249.tar.gz has insert to database
+2023-07-14 16:38:20: wd=566 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/aclocal.m4 has insert to database
+2023-07-14 16:38:20: wd=567 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/AUTHORS has insert to database
+2023-07-14 16:38:20: wd=568 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/autogen.sh has insert to database
+2023-07-14 16:38:20: wd=569 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/CMakeLists.txt has insert to database
+2023-07-14 16:38:20: wd=570 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/compile has insert to database
+2023-07-14 16:38:20: wd=571 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/config.h has insert to database
+2023-07-14 16:38:20: wd=572 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/config.h.in has insert to database
+2023-07-14 16:38:20: wd=573 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/config.log has insert to database
+2023-07-14 16:38:20: wd=574 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/config.status has insert to database
+2023-07-14 16:38:20: wd=575 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/configure has insert to database
+2023-07-14 16:38:20: wd=576 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/configure.ac has insert to database
+2023-07-14 16:38:20: wd=577 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/COPYING has insert to database
+2023-07-14 16:38:20: wd=578 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/depcomp has insert to database
+2023-07-14 16:38:20: wd=579 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/doc/apparmor.d-abstractions-spawn-fcgi has insert to database
+2023-07-14 16:38:20: wd=580 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/doc/Makefile has insert to database
+2023-07-14 16:38:20: wd=581 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/doc/Makefile.am has insert to database
+2023-07-14 16:38:20: wd=582 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/doc/Makefile.in has insert to database
+2023-07-14 16:38:20: wd=583 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/doc/run-generic has insert to database
+2023-07-14 16:38:20: wd=584 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/doc/run-php has insert to database
+2023-07-14 16:38:20: wd=585 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/doc/run-rails has insert to database
+2023-07-14 16:38:20: wd=586 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/install-sh has insert to database
+2023-07-14 16:38:20: wd=587 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/Makefile has insert to database
+2023-07-14 16:38:20: wd=588 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/Makefile.am has insert to database
+2023-07-14 16:38:20: wd=589 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/Makefile.in has insert to database
+2023-07-14 16:38:20: wd=590 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/missing has insert to database
+2023-07-14 16:38:20: wd=591 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/NEWS has insert to database
+2023-07-14 16:38:20: wd=592 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/README has insert to database
+2023-07-14 16:38:20: wd=593 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/spawn-fcgi.1 has insert to database
+2023-07-14 16:38:20: wd=594 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/src/.deps/spawn-fcgi.Po has insert to database
+2023-07-14 16:38:20: wd=595 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/src/CMakeLists.txt has insert to database
+2023-07-14 16:38:20: wd=596 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/src/config.h.cmake has insert to database
+2023-07-14 16:38:20: wd=597 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/src/Makefile has insert to database
+2023-07-14 16:38:20: wd=598 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/src/Makefile.am has insert to database
+2023-07-14 16:38:20: wd=599 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/src/Makefile.in has insert to database
+2023-07-14 16:38:20: wd=600 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/src/spawn-fcgi has insert to database
+2023-07-14 16:38:20: wd=601 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/src/spawn-fcgi.c has insert to database
+2023-07-14 16:38:20: wd=602 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/src/spawn-fcgi.o has insert to database
+2023-07-14 16:38:20: wd=603 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4/stamp-h1 has insert to database
+2023-07-14 16:38:20: wd=604 filepath=/windows/fastCGI/05_FastCGI/spawn-fcgi-1.6.4.tar.gz has insert to database
+2023-07-14 16:38:20: wd=605 filepath=/windows/fastCGI/05_FastCGI/错误汇总.docx has insert to database
+2023-07-14 16:38:20: wd=606 filepath=/windows/fastCGI/06_fastdfs_nginx_module/fastdfs-nginx-module_v1.16.tar.gz has insert to database
+2023-07-14 16:38:20: wd=607 filepath=/windows/fastCGI/06_fastdfs_nginx_module/nginx.conf has insert to database
+2023-07-14 16:38:20: wd=608 filepath=/windows/fastCGI/06_fastdfs_nginx_module/nginx中添加fastDFS模块 - 步骤 has insert to database
+2023-07-14 16:38:20: wd=609 filepath=/windows/fastCGI/06_fastdfs_nginx_module/storage_conf/http.conf has insert to database
+2023-07-14 16:38:20: wd=610 filepath=/windows/fastCGI/06_fastdfs_nginx_module/storage_conf/mime.types has insert to database
+2023-07-14 16:38:20: wd=611 filepath=/windows/fastCGI/06_fastdfs_nginx_module/storage_conf/mod_fastdfs.conf has insert to database
+2023-07-14 16:38:20: wd=612 filepath=/windows/filesystemTest/CMakeCache.txt has insert to database
+2023-07-14 16:38:21: wd=613 filepath=/windows/filesystemTest/CMakeFiles/3.10.2/CMakeCCompiler.cmake has insert to database
+2023-07-14 16:38:21: wd=614 filepath=/windows/filesystemTest/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake has insert to database
+2023-07-14 16:38:21: wd=615 filepath=/windows/filesystemTest/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin has insert to database
+2023-07-14 16:38:21: wd=616 filepath=/windows/filesystemTest/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin has insert to database
+2023-07-14 16:38:21: wd=617 filepath=/windows/filesystemTest/CMakeFiles/3.10.2/CMakeSystem.cmake has insert to database
+2023-07-14 16:38:21: wd=618 filepath=/windows/filesystemTest/CMakeFiles/3.10.2/CompilerIdC/a.out has insert to database
+2023-07-14 16:38:21: wd=619 filepath=/windows/filesystemTest/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c has insert to database
+2023-07-14 16:38:21: wd=620 filepath=/windows/filesystemTest/CMakeFiles/3.10.2/CompilerIdCXX/a.out has insert to database
+2023-07-14 16:38:21: wd=621 filepath=/windows/filesystemTest/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp has insert to database
+2023-07-14 16:38:21: wd=622 filepath=/windows/filesystemTest/CMakeFiles/cmake.check_cache has insert to database
+2023-07-14 16:38:21: wd=623 filepath=/windows/filesystemTest/CMakeFiles/CMakeDirectoryInformation.cmake has insert to database
+2023-07-14 16:38:21: wd=624 filepath=/windows/filesystemTest/CMakeFiles/CMakeOutput.log has insert to database
+2023-07-14 16:38:21: wd=625 filepath=/windows/filesystemTest/CMakeFiles/feature_tests.bin has insert to database
+2023-07-14 16:38:21: wd=626 filepath=/windows/filesystemTest/CMakeFiles/feature_tests.c has insert to database
+2023-07-14 16:38:21: wd=627 filepath=/windows/filesystemTest/CMakeFiles/feature_tests.cxx has insert to database
+2023-07-14 16:38:21: wd=628 filepath=/windows/filesystemTest/CMakeFiles/Makefile.cmake has insert to database
+2023-07-14 16:38:21: wd=629 filepath=/windows/filesystemTest/CMakeFiles/Makefile2 has insert to database
+2023-07-14 16:38:21: wd=630 filepath=/windows/filesystemTest/CMakeFiles/progress.marks has insert to database
+2023-07-14 16:38:21: wd=631 filepath=/windows/filesystemTest/CMakeFiles/TargetDirectories.txt has insert to database
+2023-07-14 16:38:21: wd=632 filepath=/windows/filesystemTest/CMakeFiles/ttt.dir/build.make has insert to database
+2023-07-14 16:38:21: wd=633 filepath=/windows/filesystemTest/CMakeFiles/ttt.dir/cmake_clean.cmake has insert to database
+2023-07-14 16:38:21: wd=634 filepath=/windows/filesystemTest/CMakeFiles/ttt.dir/CXX.includecache has insert to database
+2023-07-14 16:38:21: wd=635 filepath=/windows/filesystemTest/CMakeFiles/ttt.dir/depend.internal has insert to database
+2023-07-14 16:38:21: wd=636 filepath=/windows/filesystemTest/CMakeFiles/ttt.dir/depend.make has insert to database
+2023-07-14 16:38:21: wd=637 filepath=/windows/filesystemTest/CMakeFiles/ttt.dir/DependInfo.cmake has insert to database
+2023-07-14 16:38:21: wd=638 filepath=/windows/filesystemTest/CMakeFiles/ttt.dir/filesystemTest.cpp.o has insert to database
+2023-07-14 16:38:21: wd=639 filepath=/windows/filesystemTest/CMakeFiles/ttt.dir/flags.make has insert to database
+2023-07-14 16:38:21: wd=640 filepath=/windows/filesystemTest/CMakeFiles/ttt.dir/link.txt has insert to database
+2023-07-14 16:38:21: wd=641 filepath=/windows/filesystemTest/CMakeFiles/ttt.dir/progress.make has insert to database
+2023-07-14 16:38:21: wd=642 filepath=/windows/filesystemTest/CMakeLists.txt has insert to database
+2023-07-14 16:38:21: wd=643 filepath=/windows/filesystemTest/cmake_install.cmake has insert to database
+2023-07-14 16:38:21: wd=644 filepath=/windows/filesystemTest/filesystemTest.cpp has insert to database
+2023-07-14 16:38:21: wd=645 filepath=/windows/filesystemTest/Makefile has insert to database
+2023-07-14 16:38:21: wd=646 filepath=/windows/filesystemTest/ttt has insert to database
+2023-07-14 16:38:21: wd=647 filepath=/windows/inotify/1app has insert to database
+2023-07-14 16:38:21: wd=648 filepath=/windows/inotify/3/CMakeCache.txt has insert to database
+2023-07-14 16:38:21: wd=649 filepath=/windows/inotify/3/CMakeFiles/3.10.2/CMakeCCompiler.cmake has insert to database
+2023-07-14 16:38:21: wd=650 filepath=/windows/inotify/3/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake has insert to database
+2023-07-14 16:38:21: wd=651 filepath=/windows/inotify/3/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin has insert to database
+2023-07-14 16:38:21: wd=652 filepath=/windows/inotify/3/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin has insert to database
+2023-07-14 16:38:21: wd=653 filepath=/windows/inotify/3/CMakeFiles/3.10.2/CMakeSystem.cmake has insert to database
+2023-07-14 16:38:21: wd=654 filepath=/windows/inotify/3/CMakeFiles/3.10.2/CompilerIdC/a.out has insert to database
+2023-07-14 16:38:21: wd=655 filepath=/windows/inotify/3/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c has insert to database
+2023-07-14 16:38:21: wd=656 filepath=/windows/inotify/3/CMakeFiles/3.10.2/CompilerIdCXX/a.out has insert to database
+2023-07-14 16:38:21: wd=657 filepath=/windows/inotify/3/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp has insert to database
+2023-07-14 16:38:21: wd=658 filepath=/windows/inotify/3/CMakeFiles/3.16.3/CMakeCCompiler.cmake has insert to database
+2023-07-14 16:38:21: wd=659 filepath=/windows/inotify/3/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake has insert to database
+2023-07-14 16:38:21: wd=660 filepath=/windows/inotify/3/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin has insert to database
+2023-07-14 16:38:21: wd=661 filepath=/windows/inotify/3/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin has insert to database
+2023-07-14 16:38:21: wd=662 filepath=/windows/inotify/3/CMakeFiles/3.16.3/CMakeSystem.cmake has insert to database
+2023-07-14 16:38:21: wd=663 filepath=/windows/inotify/3/CMakeFiles/3.16.3/CompilerIdC/a.out has insert to database
+2023-07-14 16:38:21: wd=664 filepath=/windows/inotify/3/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c has insert to database
+2023-07-14 16:38:21: wd=665 filepath=/windows/inotify/3/CMakeFiles/3.16.3/CompilerIdCXX/a.out has insert to database
+2023-07-14 16:38:21: wd=666 filepath=/windows/inotify/3/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp has insert to database
+2023-07-14 16:38:21: wd=667 filepath=/windows/inotify/3/CMakeFiles/cmake.check_cache has insert to database
+2023-07-14 16:38:21: wd=668 filepath=/windows/inotify/3/CMakeFiles/CMakeDirectoryInformation.cmake has insert to database
+2023-07-14 16:38:21: wd=669 filepath=/windows/inotify/3/CMakeFiles/CMakeOutput.log has insert to database
+2023-07-14 16:38:21: wd=670 filepath=/windows/inotify/3/CMakeFiles/feature_tests.bin has insert to database
+2023-07-14 16:38:21: wd=671 filepath=/windows/inotify/3/CMakeFiles/feature_tests.c has insert to database
+2023-07-14 16:38:21: wd=672 filepath=/windows/inotify/3/CMakeFiles/feature_tests.cxx has insert to database
+2023-07-14 16:38:21: wd=673 filepath=/windows/inotify/3/CMakeFiles/Makefile.cmake has insert to database
+2023-07-14 16:38:21: wd=674 filepath=/windows/inotify/3/CMakeFiles/Makefile2 has insert to database
+2023-07-14 16:38:21: wd=675 filepath=/windows/inotify/3/CMakeFiles/progress.marks has insert to database
+2023-07-14 16:38:21: wd=676 filepath=/windows/inotify/3/CMakeFiles/TargetDirectories.txt has insert to database
+2023-07-14 16:38:21: wd=677 filepath=/windows/inotify/3/CMakeFiles/ttt.dir/build.make has insert to database
+2023-07-14 16:38:21: wd=678 filepath=/windows/inotify/3/CMakeFiles/ttt.dir/cmake_clean.cmake has insert to database
+2023-07-14 16:38:21: wd=679 filepath=/windows/inotify/3/CMakeFiles/ttt.dir/CXX.includecache has insert to database
+2023-07-14 16:38:21: wd=680 filepath=/windows/inotify/3/CMakeFiles/ttt.dir/depend.internal has insert to database
+2023-07-14 16:38:21: wd=681 filepath=/windows/inotify/3/CMakeFiles/ttt.dir/depend.make has insert to database
+2023-07-14 16:38:21: wd=682 filepath=/windows/inotify/3/CMakeFiles/ttt.dir/DependInfo.cmake has insert to database
+2023-07-14 16:38:21: wd=683 filepath=/windows/inotify/3/CMakeFiles/ttt.dir/flags.make has insert to database
+2023-07-14 16:38:21: wd=684 filepath=/windows/inotify/3/CMakeFiles/ttt.dir/inotify_3_test.cpp.o has insert to database
+2023-07-14 16:38:21: wd=685 filepath=/windows/inotify/3/CMakeFiles/ttt.dir/link.txt has insert to database
+2023-07-14 16:38:21: wd=686 filepath=/windows/inotify/3/CMakeFiles/ttt.dir/progress.make has insert to database
+2023-07-14 16:38:21: wd=687 filepath=/windows/inotify/3/CMakeLists.txt has insert to database
+2023-07-14 16:38:21: wd=688 filepath=/windows/inotify/3/cmake_install.cmake has insert to database
+2023-07-14 16:38:21: wd=689 filepath=/windows/inotify/3/inotify_3_test.cpp has insert to database
+2023-07-14 16:38:21: wd=690 filepath=/windows/inotify/3/Makefile has insert to database
+2023-07-14 16:38:21: wd=691 filepath=/windows/inotify/3/ttt has insert to database
+2023-07-14 16:38:21: wd=692 filepath=/windows/inotify/4app has insert to database
+2023-07-14 16:38:21: wd=693 filepath=/windows/inotify/app has insert to database
+2023-07-14 16:38:21: wd=694 filepath=/windows/inotify/inotify.cpp has insert to database
+2023-07-14 16:38:21: wd=695 filepath=/windows/inotify/inotify_1_test.cpp has insert to database
+2023-07-14 16:38:21: wd=696 filepath=/windows/inotify/inotify_2_test.cpp has insert to database
+2023-07-14 16:38:21: wd=697 filepath=/windows/inotify/inotify_4_test.cpp has insert to database
+2023-07-14 16:38:21: wd=698 filepath=/windows/inotify/inotify_test.cpp has insert to database
+2023-07-14 16:38:21: wd=699 filepath=/windows/IPCtest/app has insert to database
+2023-07-14 16:38:21: wd=700 filepath=/windows/IPCtest/CMakeCache.txt has insert to database
+2023-07-14 16:38:21: wd=701 filepath=/windows/IPCtest/CMakeFiles/3.10.2/CMakeCCompiler.cmake has insert to database
+2023-07-14 16:38:21: wd=702 filepath=/windows/IPCtest/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake has insert to database
+2023-07-14 16:38:21: wd=703 filepath=/windows/IPCtest/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin has insert to database
+2023-07-14 16:38:21: wd=704 filepath=/windows/IPCtest/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin has insert to database
+2023-07-14 16:38:21: wd=705 filepath=/windows/IPCtest/CMakeFiles/3.10.2/CMakeSystem.cmake has insert to database
+2023-07-14 16:38:21: wd=706 filepath=/windows/IPCtest/CMakeFiles/3.10.2/CompilerIdC/a.out has insert to database
+2023-07-14 16:38:21: wd=707 filepath=/windows/IPCtest/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c has insert to database
+2023-07-14 16:38:21: wd=708 filepath=/windows/IPCtest/CMakeFiles/3.10.2/CompilerIdCXX/a.out has insert to database
+2023-07-14 16:38:21: wd=709 filepath=/windows/IPCtest/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp has insert to database
+2023-07-14 16:38:21: wd=710 filepath=/windows/IPCtest/CMakeFiles/app.dir/build.make has insert to database
+2023-07-14 16:38:21: wd=711 filepath=/windows/IPCtest/CMakeFiles/app.dir/cmake_clean.cmake has insert to database
+2023-07-14 16:38:22: wd=712 filepath=/windows/IPCtest/CMakeFiles/app.dir/CXX.includecache has insert to database
+2023-07-14 16:38:22: wd=713 filepath=/windows/IPCtest/CMakeFiles/app.dir/depend.internal has insert to database
+2023-07-14 16:38:22: wd=714 filepath=/windows/IPCtest/CMakeFiles/app.dir/depend.make has insert to database
+2023-07-14 16:38:22: wd=715 filepath=/windows/IPCtest/CMakeFiles/app.dir/DependInfo.cmake has insert to database
+2023-07-14 16:38:22: wd=716 filepath=/windows/IPCtest/CMakeFiles/app.dir/flags.make has insert to database
+2023-07-14 16:38:22: wd=717 filepath=/windows/IPCtest/CMakeFiles/app.dir/IPC.cpp.o has insert to database
+2023-07-14 16:38:22: wd=718 filepath=/windows/IPCtest/CMakeFiles/app.dir/link.txt has insert to database
+2023-07-14 16:38:22: wd=719 filepath=/windows/IPCtest/CMakeFiles/app.dir/progress.make has insert to database
+2023-07-14 16:38:22: wd=720 filepath=/windows/IPCtest/CMakeFiles/cmake.check_cache has insert to database
+2023-07-14 16:38:22: wd=721 filepath=/windows/IPCtest/CMakeFiles/CMakeDirectoryInformation.cmake has insert to database
+2023-07-14 16:38:22: wd=722 filepath=/windows/IPCtest/CMakeFiles/CMakeOutput.log has insert to database
+2023-07-14 16:38:22: wd=723 filepath=/windows/IPCtest/CMakeFiles/feature_tests.bin has insert to database
+2023-07-14 16:38:22: wd=724 filepath=/windows/IPCtest/CMakeFiles/feature_tests.c has insert to database
+2023-07-14 16:38:22: wd=725 filepath=/windows/IPCtest/CMakeFiles/feature_tests.cxx has insert to database
+2023-07-14 16:38:22: wd=726 filepath=/windows/IPCtest/CMakeFiles/Makefile.cmake has insert to database
+2023-07-14 16:38:22: wd=727 filepath=/windows/IPCtest/CMakeFiles/Makefile2 has insert to database
+2023-07-14 16:38:22: wd=728 filepath=/windows/IPCtest/CMakeFiles/progress.marks has insert to database
+2023-07-14 16:38:22: wd=729 filepath=/windows/IPCtest/CMakeFiles/TargetDirectories.txt has insert to database
+2023-07-14 16:38:22: wd=730 filepath=/windows/IPCtest/CMakeLists.txt has insert to database
+2023-07-14 16:38:22: wd=731 filepath=/windows/IPCtest/cmake_install.cmake has insert to database
+2023-07-14 16:38:22: wd=732 filepath=/windows/IPCtest/IPC.cpp has insert to database
+2023-07-14 16:38:22: wd=733 filepath=/windows/IPCtest/Makefile has insert to database
+2023-07-14 16:38:22: wd=734 filepath=/windows/NetDisk-master/README.md has insert to database
+2023-07-14 16:38:22: wd=735 filepath=/windows/NetDisk-master/README.txt has insert to database
+2023-07-14 16:38:22: wd=736 filepath=/windows/NetDisk-master/Version4.0/client/client has insert to database
+2023-07-14 16:38:22: wd=737 filepath=/windows/NetDisk-master/Version4.0/client/client.cpp has insert to database
+2023-07-14 16:38:22: wd=738 filepath=/windows/NetDisk-master/Version4.0/client/client.o has insert to database
+2023-07-14 16:38:22: wd=739 filepath=/windows/NetDisk-master/Version4.0/client/function.h has insert to database
+2023-07-14 16:38:22: wd=740 filepath=/windows/NetDisk-master/Version4.0/client/makefile has insert to database
+2023-07-14 16:38:22: wd=741 filepath=/windows/NetDisk-master/Version4.0/client/md5.h has insert to database
+2023-07-14 16:38:22: wd=742 filepath=/windows/NetDisk-master/Version4.0/client/send_recv_cycle.cpp has insert to database
+2023-07-14 16:38:22: wd=743 filepath=/windows/NetDisk-master/Version4.0/client/send_recv_cycle.o has insert to database
+2023-07-14 16:38:22: wd=744 filepath=/windows/NetDisk-master/Version4.0/client/send_recv_file.o has insert to database
+2023-07-14 16:38:22: wd=745 filepath=/windows/NetDisk-master/Version4.0/client/upLoad_downLoad.cpp has insert to database
+2023-07-14 16:38:22: wd=746 filepath=/windows/NetDisk-master/Version4.0/client/upLoad_downLoad.o has insert to database
+2023-07-14 16:38:22: wd=747 filepath=/windows/NetDisk-master/Version4.0/conf/server.conf has insert to database
+2023-07-14 16:38:22: wd=748 filepath=/windows/NetDisk-master/Version4.0/server/factory.h has insert to database
+2023-07-14 16:38:22: wd=749 filepath=/windows/NetDisk-master/Version4.0/server/function.h has insert to database
+2023-07-14 16:38:22: wd=750 filepath=/windows/NetDisk-master/Version4.0/server/makefile has insert to database
+2023-07-14 16:38:22: wd=751 filepath=/windows/NetDisk-master/Version4.0/server/MyDb.h has insert to database
+2023-07-14 16:38:22: wd=752 filepath=/windows/NetDisk-master/Version4.0/server/MyLog.h has insert to database
+2023-07-14 16:38:22: wd=753 filepath=/windows/NetDisk-master/Version4.0/server/randomStr.cpp has insert to database
+2023-07-14 16:38:22: wd=754 filepath=/windows/NetDisk-master/Version4.0/server/randomStr.o has insert to database
+2023-07-14 16:38:22: wd=755 filepath=/windows/NetDisk-master/Version4.0/server/send_recv_cycle.cpp has insert to database
+2023-07-14 16:38:22: wd=756 filepath=/windows/NetDisk-master/Version4.0/server/send_recv_cycle.o has insert to database
+2023-07-14 16:38:22: wd=757 filepath=/windows/NetDisk-master/Version4.0/server/send_recv_file.cpp has insert to database
+2023-07-14 16:38:22: wd=758 filepath=/windows/NetDisk-master/Version4.0/server/send_recv_file.o has insert to database
+2023-07-14 16:38:22: wd=759 filepath=/windows/NetDisk-master/Version4.0/server/server has insert to database
+2023-07-14 16:38:22: wd=760 filepath=/windows/NetDisk-master/Version4.0/server/server.cpp has insert to database
+2023-07-14 16:38:22: wd=761 filepath=/windows/NetDisk-master/Version4.0/server/server.o has insert to database
+2023-07-14 16:38:22: wd=762 filepath=/windows/NetDisk-master/Version4.0/server/tcp_init.cpp has insert to database
+2023-07-14 16:38:22: wd=763 filepath=/windows/NetDisk-master/Version4.0/server/tcp_init.o has insert to database
+2023-07-14 16:38:22: wd=764 filepath=/windows/NetDisk-master/Version4.0/server/timer.h has insert to database
+2023-07-14 16:38:22: wd=765 filepath=/windows/NetDisk-master/Version4.0/server/workQue.h has insert to database
+2023-07-14 16:38:22: wd=766 filepath=/windows/nginx/conf/conf.d/default.conf has insert to database
+2023-07-14 16:38:22: wd=767 filepath=/windows/nginx/conf/fastcgi_params has insert to database
+2023-07-14 16:38:22: wd=768 filepath=/windows/nginx/conf/mime.types has insert to database
+2023-07-14 16:38:22: wd=769 filepath=/windows/nginx/conf/myapp.conf has insert to database
+2023-07-14 16:38:22: wd=770 filepath=/windows/nginx/conf/nginx - 副本.conf1 has insert to database
+2023-07-14 16:38:22: wd=771 filepath=/windows/nginx/conf/nginx - 原始.conf1 has insert to database
+2023-07-14 16:38:22: wd=772 filepath=/windows/nginx/conf/nginx.conf has insert to database
+2023-07-14 16:38:22: wd=773 filepath=/windows/nginx/conf/scgi_params has insert to database
+2023-07-14 16:38:22: wd=774 filepath=/windows/nginx/conf/uwsgi_params has insert to database
+2023-07-14 16:38:22: wd=775 filepath=/windows/nginx/html/50x.html has insert to database
+2023-07-14 16:38:22: wd=776 filepath=/windows/nginx/html/index.html has insert to database
+2023-07-14 16:38:22: wd=777 filepath=/windows/SmtpSendEmail-main/bin/test_send has insert to database
+2023-07-14 16:38:22: wd=778 filepath=/windows/SmtpSendEmail-main/CMakeCache.txt has insert to database
+2023-07-14 16:38:22: wd=779 filepath=/windows/SmtpSendEmail-main/CMakeFiles/3.14.5/CMakeCCompiler.cmake has insert to database
+2023-07-14 16:38:22: wd=780 filepath=/windows/SmtpSendEmail-main/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake has insert to database
+2023-07-14 16:38:22: wd=781 filepath=/windows/SmtpSendEmail-main/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin has insert to database
+2023-07-14 16:38:22: wd=782 filepath=/windows/SmtpSendEmail-main/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin has insert to database
+2023-07-14 16:38:22: wd=783 filepath=/windows/SmtpSendEmail-main/CMakeFiles/3.14.5/CMakeSystem.cmake has insert to database
+2023-07-14 16:38:22: wd=784 filepath=/windows/SmtpSendEmail-main/CMakeFiles/3.14.5/CompilerIdC/a.out has insert to database
+2023-07-14 16:38:22: wd=785 filepath=/windows/SmtpSendEmail-main/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c has insert to database
+2023-07-14 16:38:22: wd=786 filepath=/windows/SmtpSendEmail-main/CMakeFiles/3.14.5/CompilerIdCXX/a.out has insert to database
+2023-07-14 16:38:22: wd=787 filepath=/windows/SmtpSendEmail-main/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp has insert to database
+2023-07-14 16:38:22: wd=788 filepath=/windows/SmtpSendEmail-main/CMakeFiles/cmake.check_cache has insert to database
+2023-07-14 16:38:22: wd=789 filepath=/windows/SmtpSendEmail-main/CMakeFiles/CMakeDirectoryInformation.cmake has insert to database
+2023-07-14 16:38:22: wd=790 filepath=/windows/SmtpSendEmail-main/CMakeFiles/CMakeOutput.log has insert to database
+2023-07-14 16:38:22: wd=791 filepath=/windows/SmtpSendEmail-main/CMakeFiles/feature_tests.bin has insert to database
+2023-07-14 16:38:22: wd=792 filepath=/windows/SmtpSendEmail-main/CMakeFiles/feature_tests.c has insert to database
+2023-07-14 16:38:22: wd=793 filepath=/windows/SmtpSendEmail-main/CMakeFiles/feature_tests.cxx has insert to database
+2023-07-14 16:38:22: wd=794 filepath=/windows/SmtpSendEmail-main/CMakeFiles/Jxiepc.dir/build.make has insert to database
+2023-07-14 16:38:22: wd=795 filepath=/windows/SmtpSendEmail-main/CMakeFiles/Jxiepc.dir/cmake_clean.cmake has insert to database
+2023-07-14 16:38:22: wd=796 filepath=/windows/SmtpSendEmail-main/CMakeFiles/Jxiepc.dir/CXX.includecache has insert to database
+2023-07-14 16:38:22: wd=797 filepath=/windows/SmtpSendEmail-main/CMakeFiles/Jxiepc.dir/depend.internal has insert to database
+2023-07-14 16:38:22: wd=798 filepath=/windows/SmtpSendEmail-main/CMakeFiles/Jxiepc.dir/depend.make has insert to database
+2023-07-14 16:38:22: wd=799 filepath=/windows/SmtpSendEmail-main/CMakeFiles/Jxiepc.dir/DependInfo.cmake has insert to database
+2023-07-14 16:38:22: wd=800 filepath=/windows/SmtpSendEmail-main/CMakeFiles/Jxiepc.dir/flags.make has insert to database
+2023-07-14 16:38:22: wd=801 filepath=/windows/SmtpSendEmail-main/CMakeFiles/Jxiepc.dir/Jxiepc/smtp.cpp.o has insert to database
+2023-07-14 16:38:22: wd=802 filepath=/windows/SmtpSendEmail-main/CMakeFiles/Jxiepc.dir/link.txt has insert to database
+2023-07-14 16:38:22: wd=803 filepath=/windows/SmtpSendEmail-main/CMakeFiles/Jxiepc.dir/progress.make has insert to database
+2023-07-14 16:38:23: wd=804 filepath=/windows/SmtpSendEmail-main/CMakeFiles/Makefile.cmake has insert to database
+2023-07-14 16:38:23: wd=805 filepath=/windows/SmtpSendEmail-main/CMakeFiles/Makefile2 has insert to database
+2023-07-14 16:38:23: wd=806 filepath=/windows/SmtpSendEmail-main/CMakeFiles/progress.marks has insert to database
+2023-07-14 16:38:23: wd=807 filepath=/windows/SmtpSendEmail-main/CMakeFiles/TargetDirectories.txt has insert to database
+2023-07-14 16:38:23: wd=808 filepath=/windows/SmtpSendEmail-main/CMakeFiles/test_send.dir/build.make has insert to database
+2023-07-14 16:38:23: wd=809 filepath=/windows/SmtpSendEmail-main/CMakeFiles/test_send.dir/cmake_clean.cmake has insert to database
+2023-07-14 16:38:23: wd=810 filepath=/windows/SmtpSendEmail-main/CMakeFiles/test_send.dir/CXX.includecache has insert to database
+2023-07-14 16:38:23: wd=811 filepath=/windows/SmtpSendEmail-main/CMakeFiles/test_send.dir/depend.internal has insert to database
+2023-07-14 16:38:23: wd=812 filepath=/windows/SmtpSendEmail-main/CMakeFiles/test_send.dir/depend.make has insert to database
+2023-07-14 16:38:23: wd=813 filepath=/windows/SmtpSendEmail-main/CMakeFiles/test_send.dir/DependInfo.cmake has insert to database
+2023-07-14 16:38:23: wd=814 filepath=/windows/SmtpSendEmail-main/CMakeFiles/test_send.dir/flags.make has insert to database
+2023-07-14 16:38:23: wd=815 filepath=/windows/SmtpSendEmail-main/CMakeFiles/test_send.dir/link.txt has insert to database
+2023-07-14 16:38:23: wd=816 filepath=/windows/SmtpSendEmail-main/CMakeFiles/test_send.dir/progress.make has insert to database
+2023-07-14 16:38:23: wd=817 filepath=/windows/SmtpSendEmail-main/CMakeFiles/test_send.dir/tests/test_smtp.cpp.o has insert to database
+2023-07-14 16:38:23: wd=818 filepath=/windows/SmtpSendEmail-main/CMakeLists.txt has insert to database
+2023-07-14 16:38:23: wd=819 filepath=/windows/SmtpSendEmail-main/cmake_install.cmake has insert to database
+2023-07-14 16:38:23: wd=820 filepath=/windows/SmtpSendEmail-main/Jxiepc/smtp.cpp has insert to database
+2023-07-14 16:38:23: wd=821 filepath=/windows/SmtpSendEmail-main/Jxiepc/smtp.h has insert to database
+2023-07-14 16:38:23: wd=822 filepath=/windows/SmtpSendEmail-main/lib/libJxiepc.so has insert to database
+2023-07-14 16:38:23: wd=823 filepath=/windows/SmtpSendEmail-main/LICENSE has insert to database
+2023-07-14 16:38:23: wd=824 filepath=/windows/SmtpSendEmail-main/Makefile has insert to database
+2023-07-14 16:38:23: wd=825 filepath=/windows/SmtpSendEmail-main/README.md has insert to database
+2023-07-14 16:38:23: wd=826 filepath=/windows/SmtpSendEmail-main/tests/test_smtp.cpp has insert to database
+2023-07-14 16:38:23: wd=827 filepath=/windows/spawn-fcgi-1.6.3/AUTHORS has insert to database
+2023-07-14 16:38:23: wd=828 filepath=/windows/spawn-fcgi-1.6.3/autogen.sh has insert to database
+2023-07-14 16:38:23: wd=829 filepath=/windows/spawn-fcgi-1.6.3/CMakeLists.txt has insert to database
+2023-07-14 16:38:23: wd=830 filepath=/windows/spawn-fcgi-1.6.3/configure.ac has insert to database
+2023-07-14 16:38:23: wd=831 filepath=/windows/spawn-fcgi-1.6.3/COPYING has insert to database
+2023-07-14 16:38:23: wd=832 filepath=/windows/spawn-fcgi-1.6.3/doc/Makefile.am has insert to database
+2023-07-14 16:38:23: wd=833 filepath=/windows/spawn-fcgi-1.6.3/doc/run-generic has insert to database
+2023-07-14 16:38:23: wd=834 filepath=/windows/spawn-fcgi-1.6.3/doc/run-php has insert to database
+2023-07-14 16:38:23: wd=835 filepath=/windows/spawn-fcgi-1.6.3/doc/run-rails has insert to database
+2023-07-14 16:38:23: wd=836 filepath=/windows/spawn-fcgi-1.6.3/Makefile.am has insert to database
+2023-07-14 16:38:23: wd=837 filepath=/windows/spawn-fcgi-1.6.3/NEWS has insert to database
+2023-07-14 16:38:23: wd=838 filepath=/windows/spawn-fcgi-1.6.3/README has insert to database
+2023-07-14 16:38:23: wd=839 filepath=/windows/spawn-fcgi-1.6.3/spawn-fcgi.1 has insert to database
+2023-07-14 16:38:23: wd=840 filepath=/windows/spawn-fcgi-1.6.3/src/CMakeLists.txt has insert to database
+2023-07-14 16:38:23: wd=841 filepath=/windows/spawn-fcgi-1.6.3/src/config.h.cmake has insert to database
+2023-07-14 16:38:23: wd=842 filepath=/windows/spawn-fcgi-1.6.3/src/Makefile.am has insert to database
+2023-07-14 16:38:23: wd=843 filepath=/windows/spawn-fcgi-1.6.3/src/spawn-fcgi.c has insert to database
+2023-07-14 16:38:23: wd=844 filepath=/windows/spawn-fcgi-master/AUTHORS has insert to database
+2023-07-14 16:38:23: wd=845 filepath=/windows/spawn-fcgi-master/autogen.sh has insert to database
+2023-07-14 16:38:23: wd=846 filepath=/windows/spawn-fcgi-master/CMakeLists.txt has insert to database
+2023-07-14 16:38:23: wd=847 filepath=/windows/spawn-fcgi-master/configure.ac has insert to database
+2023-07-14 16:38:23: wd=848 filepath=/windows/spawn-fcgi-master/COPYING has insert to database
+2023-07-14 16:38:23: wd=849 filepath=/windows/spawn-fcgi-master/doc/apparmor.d-abstractions-spawn-fcgi has insert to database
+2023-07-14 16:38:23: wd=850 filepath=/windows/spawn-fcgi-master/doc/Makefile.am has insert to database
+2023-07-14 16:38:23: wd=851 filepath=/windows/spawn-fcgi-master/doc/run-generic has insert to database
+2023-07-14 16:38:23: wd=852 filepath=/windows/spawn-fcgi-master/doc/run-php has insert to database
+2023-07-14 16:38:23: wd=853 filepath=/windows/spawn-fcgi-master/doc/run-rails has insert to database
+2023-07-14 16:38:23: wd=854 filepath=/windows/spawn-fcgi-master/Makefile.am has insert to database
+2023-07-14 16:38:23: wd=855 filepath=/windows/spawn-fcgi-master/NEWS has insert to database
+2023-07-14 16:38:23: wd=856 filepath=/windows/spawn-fcgi-master/packdist.sh has insert to database
+2023-07-14 16:38:23: wd=857 filepath=/windows/spawn-fcgi-master/README.md has insert to database
+2023-07-14 16:38:23: wd=858 filepath=/windows/spawn-fcgi-master/spawn-fcgi.1 has insert to database
+2023-07-14 16:38:23: wd=859 filepath=/windows/spawn-fcgi-master/src/CMakeLists.txt has insert to database
+2023-07-14 16:38:23: wd=860 filepath=/windows/spawn-fcgi-master/src/config.h.cmake has insert to database
+2023-07-14 16:38:23: wd=861 filepath=/windows/spawn-fcgi-master/src/Makefile.am has insert to database
+2023-07-14 16:38:23: wd=862 filepath=/windows/spawn-fcgi-master/src/spawn-fcgi.c has insert to database
+2023-07-14 16:38:23: wd=863 filepath=/windows/test/app has insert to database
+2023-07-14 16:38:23: wd=864 filepath=/windows/test/bpp has insert to database
+2023-07-14 16:38:23: wd=865 filepath=/windows/test/ColorChecker_A-20Lux_test_Tele_5X_Capture_0/..IMG_20230301_225836.jpg has insert to database
+2023-07-14 16:38:23: wd=866 filepath=/windows/test/ColorChecker_A-20Lux_test_Tele_5X_Capture_0/.IMG_20230301_225824.jpg has insert to database
+2023-07-14 16:38:23: wd=867 filepath=/windows/test/ColorChecker_A-20Lux_test_Tele_5X_Capture_0/IMG_20230301_225848.jpg has insert to database
+2023-07-14 16:38:23: wd=868 filepath=/windows/test/ColorChecker_A-20Lux_test_Tele_5X_Capture_0/IMG_20230301_225900.jpg has insert to database
+2023-07-14 16:38:23: wd=869 filepath=/windows/test/ColorChecker_A-20Lux_test_Tele_5X_Capture_0/IMG_20230301_225912.jpg has insert to database
+2023-07-14 16:38:23: wd=870 filepath=/windows/test/cpp has insert to database
+2023-07-14 16:38:23: wd=871 filepath=/windows/test/databd.cpp has insert to database
+2023-07-14 16:38:23: wd=872 filepath=/windows/test/dpp has insert to database
+2023-07-14 16:38:23: wd=873 filepath=/windows/test/fileStat.cpp has insert to database
+2023-07-14 16:38:23: wd=874 filepath=/windows/test/filesystemTest/CMakeCache.txt has insert to database
+2023-07-14 16:38:23: wd=875 filepath=/windows/test/filesystemTest/CMakeFiles/3.10.2/CMakeCCompiler.cmake has insert to database
+2023-07-14 16:38:23: wd=876 filepath=/windows/test/filesystemTest/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake has insert to database
+2023-07-14 16:38:23: wd=877 filepath=/windows/test/filesystemTest/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin has insert to database
+2023-07-14 16:38:23: wd=878 filepath=/windows/test/filesystemTest/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin has insert to database
+2023-07-14 16:38:23: wd=879 filepath=/windows/test/filesystemTest/CMakeFiles/3.10.2/CMakeSystem.cmake has insert to database
+2023-07-14 16:38:23: wd=880 filepath=/windows/test/filesystemTest/CMakeFiles/3.10.2/CompilerIdC/a.out has insert to database
+2023-07-14 16:38:23: wd=881 filepath=/windows/test/filesystemTest/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c has insert to database
+2023-07-14 16:38:24: wd=882 filepath=/windows/test/filesystemTest/CMakeFiles/3.10.2/CompilerIdCXX/a.out has insert to database
+2023-07-14 16:38:24: wd=883 filepath=/windows/test/filesystemTest/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp has insert to database
+2023-07-14 16:38:24: wd=884 filepath=/windows/test/filesystemTest/CMakeFiles/cmake.check_cache has insert to database
+2023-07-14 16:38:24: wd=885 filepath=/windows/test/filesystemTest/CMakeFiles/CMakeDirectoryInformation.cmake has insert to database
+2023-07-14 16:38:24: wd=886 filepath=/windows/test/filesystemTest/CMakeFiles/CMakeOutput.log has insert to database
+2023-07-14 16:38:24: wd=887 filepath=/windows/test/filesystemTest/CMakeFiles/feature_tests.bin has insert to database
+2023-07-14 16:38:24: wd=888 filepath=/windows/test/filesystemTest/CMakeFiles/feature_tests.c has insert to database
+2023-07-14 16:38:24: wd=889 filepath=/windows/test/filesystemTest/CMakeFiles/feature_tests.cxx has insert to database
+2023-07-14 16:38:24: wd=890 filepath=/windows/test/filesystemTest/CMakeFiles/Makefile.cmake has insert to database
+2023-07-14 16:38:24: wd=891 filepath=/windows/test/filesystemTest/CMakeFiles/Makefile2 has insert to database
+2023-07-14 16:38:24: wd=892 filepath=/windows/test/filesystemTest/CMakeFiles/progress.marks has insert to database
+2023-07-14 16:38:24: wd=893 filepath=/windows/test/filesystemTest/CMakeFiles/TargetDirectories.txt has insert to database
+2023-07-14 16:38:24: wd=894 filepath=/windows/test/filesystemTest/CMakeFiles/ttt.dir/build.make has insert to database
+2023-07-14 16:38:24: wd=895 filepath=/windows/test/filesystemTest/CMakeFiles/ttt.dir/cmake_clean.cmake has insert to database
+2023-07-14 16:38:24: wd=896 filepath=/windows/test/filesystemTest/CMakeFiles/ttt.dir/CXX.includecache has insert to database
+2023-07-14 16:38:24: wd=897 filepath=/windows/test/filesystemTest/CMakeFiles/ttt.dir/depend.internal has insert to database
+2023-07-14 16:38:24: wd=898 filepath=/windows/test/filesystemTest/CMakeFiles/ttt.dir/depend.make has insert to database
+2023-07-14 16:38:24: wd=899 filepath=/windows/test/filesystemTest/CMakeFiles/ttt.dir/DependInfo.cmake has insert to database
+2023-07-14 16:38:24: wd=900 filepath=/windows/test/filesystemTest/CMakeFiles/ttt.dir/filesystemTest.cpp.o has insert to database
+2023-07-14 16:38:24: wd=901 filepath=/windows/test/filesystemTest/CMakeFiles/ttt.dir/flags.make has insert to database
+2023-07-14 16:38:24: wd=902 filepath=/windows/test/filesystemTest/CMakeFiles/ttt.dir/link.txt has insert to database
+2023-07-14 16:38:24: wd=903 filepath=/windows/test/filesystemTest/CMakeFiles/ttt.dir/progress.make has insert to database
+2023-07-14 16:38:24: wd=904 filepath=/windows/test/filesystemTest/CMakeLists.txt has insert to database
+2023-07-14 16:38:24: wd=905 filepath=/windows/test/filesystemTest/cmake_install.cmake has insert to database
+2023-07-14 16:38:24: wd=906 filepath=/windows/test/filesystemTest/filesystemTest.cpp has insert to database
+2023-07-14 16:38:24: wd=907 filepath=/windows/test/filesystemTest/Makefile has insert to database
+2023-07-14 16:38:24: wd=908 filepath=/windows/test/filesystemTest/ttt has insert to database
+2023-07-14 16:38:24: wd=909 filepath=/windows/test/inotify/app has insert to database
+2023-07-14 16:38:24: wd=910 filepath=/windows/test/inotify/inotify.cpp has insert to database
+2023-07-14 16:38:24: wd=911 filepath=/windows/test/inotify/inotify_test.cpp has insert to database
+2023-07-14 16:38:24: wd=912 filepath=/windows/test/IPCtest/app has insert to database
+2023-07-14 16:38:24: wd=913 filepath=/windows/test/IPCtest/CMakeCache.txt has insert to database
+2023-07-14 16:38:24: wd=914 filepath=/windows/test/IPCtest/CMakeFiles/3.10.2/CMakeCCompiler.cmake has insert to database
+2023-07-14 16:38:24: wd=915 filepath=/windows/test/IPCtest/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake has insert to database
+2023-07-14 16:38:24: wd=916 filepath=/windows/test/IPCtest/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin has insert to database
+2023-07-14 16:38:24: wd=917 filepath=/windows/test/IPCtest/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin has insert to database
+2023-07-14 16:38:24: wd=918 filepath=/windows/test/IPCtest/CMakeFiles/3.10.2/CMakeSystem.cmake has insert to database
+2023-07-14 16:38:24: wd=919 filepath=/windows/test/IPCtest/CMakeFiles/3.10.2/CompilerIdC/a.out has insert to database
+2023-07-14 16:38:24: wd=920 filepath=/windows/test/IPCtest/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c has insert to database
+2023-07-14 16:38:24: wd=921 filepath=/windows/test/IPCtest/CMakeFiles/3.10.2/CompilerIdCXX/a.out has insert to database
+2023-07-14 16:38:24: wd=922 filepath=/windows/test/IPCtest/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp has insert to database
+2023-07-14 16:38:24: wd=923 filepath=/windows/test/IPCtest/CMakeFiles/app.dir/build.make has insert to database
+2023-07-14 16:38:24: wd=924 filepath=/windows/test/IPCtest/CMakeFiles/app.dir/cmake_clean.cmake has insert to database
+2023-07-14 16:38:24: wd=925 filepath=/windows/test/IPCtest/CMakeFiles/app.dir/CXX.includecache has insert to database
+2023-07-14 16:38:24: wd=926 filepath=/windows/test/IPCtest/CMakeFiles/app.dir/depend.internal has insert to database
+2023-07-14 16:38:24: wd=927 filepath=/windows/test/IPCtest/CMakeFiles/app.dir/depend.make has insert to database
+2023-07-14 16:38:24: wd=928 filepath=/windows/test/IPCtest/CMakeFiles/app.dir/DependInfo.cmake has insert to database
+2023-07-14 16:38:24: wd=929 filepath=/windows/test/IPCtest/CMakeFiles/app.dir/flags.make has insert to database
+2023-07-14 16:38:24: wd=930 filepath=/windows/test/IPCtest/CMakeFiles/app.dir/IPC.cpp.o has insert to database
+2023-07-14 16:38:24: wd=931 filepath=/windows/test/IPCtest/CMakeFiles/app.dir/link.txt has insert to database
+2023-07-14 16:38:24: wd=932 filepath=/windows/test/IPCtest/CMakeFiles/app.dir/progress.make has insert to database
+2023-07-14 16:38:24: wd=933 filepath=/windows/test/IPCtest/CMakeFiles/cmake.check_cache has insert to database
+2023-07-14 16:38:24: wd=934 filepath=/windows/test/IPCtest/CMakeFiles/CMakeDirectoryInformation.cmake has insert to database
+2023-07-14 16:38:24: wd=935 filepath=/windows/test/IPCtest/CMakeFiles/CMakeOutput.log has insert to database
+2023-07-14 16:38:24: wd=936 filepath=/windows/test/IPCtest/CMakeFiles/feature_tests.bin has insert to database
+2023-07-14 16:38:24: wd=937 filepath=/windows/test/IPCtest/CMakeFiles/feature_tests.c has insert to database
+2023-07-14 16:38:24: wd=938 filepath=/windows/test/IPCtest/CMakeFiles/feature_tests.cxx has insert to database
+2023-07-14 16:38:24: wd=939 filepath=/windows/test/IPCtest/CMakeFiles/Makefile.cmake has insert to database
+2023-07-14 16:38:24: wd=940 filepath=/windows/test/IPCtest/CMakeFiles/Makefile2 has insert to database
+2023-07-14 16:38:24: wd=941 filepath=/windows/test/IPCtest/CMakeFiles/progress.marks has insert to database
+2023-07-14 16:38:24: wd=942 filepath=/windows/test/IPCtest/CMakeFiles/TargetDirectories.txt has insert to database
+2023-07-14 16:38:24: wd=943 filepath=/windows/test/IPCtest/CMakeLists.txt has insert to database
+2023-07-14 16:38:24: wd=944 filepath=/windows/test/IPCtest/cmake_install.cmake has insert to database
+2023-07-14 16:38:24: wd=945 filepath=/windows/test/IPCtest/IPC.cpp has insert to database
+2023-07-14 16:38:24: wd=946 filepath=/windows/test/IPCtest/Makefile has insert to database
+2023-07-14 16:38:24: wd=947 filepath=/windows/test/log/app has insert to database
+2023-07-14 16:38:24: wd=948 filepath=/windows/test/log/bpp has insert to database
+2023-07-14 16:38:24: wd=949 filepath=/windows/test/log/log.cpp has insert to database
+2023-07-14 16:38:24: wd=950 filepath=/windows/test/log/log.txt has insert to database
+2023-07-14 16:38:24: wd=951 filepath=/windows/test/log/log_sem.cpp has insert to database
+2023-07-14 16:38:24: wd=952 filepath=/windows/test/main.cpp has insert to database
+2023-07-14 16:38:24: wd=953 filepath=/windows/test/send1.cpp has insert to database
+2023-07-14 16:38:24: wd=954 filepath=/windows/test/sendEmail-v1.56.tar.gz has insert to database
+2023-07-14 16:38:24: wd=955 filepath=/windows/test/sendEmail.cpp has insert to database
+2023-07-14 16:38:24: wd=956 filepath=/windows/test/sendMail.cpp has insert to database
+2023-07-14 16:38:24: wd=957 filepath=/windows/test/sendMail_curl.cpp has insert to database
+2023-07-14 16:38:24: wd=958 filepath=/windows/test/shareHash/1unorder has insert to database
+2023-07-14 16:38:24: wd=959 filepath=/windows/test/shareHash/2unorder has insert to database
+2023-07-14 16:38:24: wd=960 filepath=/windows/test/shareHash/3unorder has insert to database
+2023-07-14 16:38:24: wd=961 filepath=/windows/test/shareHash/4unorder has insert to database
+2023-07-14 16:38:25: wd=962 filepath=/windows/test/shareHash/5unorder has insert to database
+2023-07-14 16:38:25: wd=963 filepath=/windows/test/shareHash/666 has insert to database
+2023-07-14 16:38:25: wd=964 filepath=/windows/test/shareHash/666.cpp has insert to database
+2023-07-14 16:38:25: wd=965 filepath=/windows/test/shareHash/777 has insert to database
+2023-07-14 16:38:25: wd=966 filepath=/windows/test/shareHash/app has insert to database
+2023-07-14 16:38:25: wd=967 filepath=/windows/test/shareHash/hash has insert to database
+2023-07-14 16:38:25: wd=968 filepath=/windows/test/shareHash/latestHash.cpp has insert to database
+2023-07-14 16:38:25: wd=969 filepath=/windows/test/shareHash/shareHash.cpp has insert to database
+2023-07-14 16:38:25: wd=970 filepath=/windows/test/shareHash/shareMem has insert to database
+2023-07-14 16:38:25: wd=971 filepath=/windows/test/shareHash/shareUnorder.cpp has insert to database
+2023-07-14 16:38:25: wd=972 filepath=/windows/test/shareHash/shareUnorder1.cpp has insert to database
+2023-07-14 16:38:25: wd=973 filepath=/windows/test/shareHash/shareUnorder2.cpp has insert to database
+2023-07-14 16:38:25: wd=974 filepath=/windows/test/shareHash/shareUnorder3.cpp has insert to database
+2023-07-14 16:38:25: wd=975 filepath=/windows/test/shareHash/shareUnorder4.cpp has insert to database
+2023-07-14 16:38:25: wd=976 filepath=/windows/test/shareHash/shareUnorder5.cpp has insert to database
+2023-07-14 16:38:25: wd=977 filepath=/windows/test/shareHash/unorder has insert to database
+2023-07-14 16:38:25: wd=978 filepath=/windows/test/sql_create.cpp has insert to database
+2023-07-14 16:38:25: wd=979 filepath=/windows/test/sql_create.h has insert to database
+2023-07-14 16:38:25: wd=980 filepath=/windows/test/src/CMakeCache.txt has insert to database
+2023-07-14 16:38:25: wd=981 filepath=/windows/test/src/CMakeFiles/3.10.2/CMakeCCompiler.cmake has insert to database
+2023-07-14 16:38:25: wd=982 filepath=/windows/test/src/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake has insert to database
+2023-07-14 16:38:25: wd=983 filepath=/windows/test/src/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin has insert to database
+2023-07-14 16:38:25: wd=984 filepath=/windows/test/src/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin has insert to database
+2023-07-14 16:38:25: wd=985 filepath=/windows/test/src/CMakeFiles/3.10.2/CMakeSystem.cmake has insert to database
+2023-07-14 16:38:25: wd=986 filepath=/windows/test/src/CMakeFiles/3.10.2/CompilerIdC/a.out has insert to database
+2023-07-14 16:38:25: wd=987 filepath=/windows/test/src/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c has insert to database
+2023-07-14 16:38:25: wd=988 filepath=/windows/test/src/CMakeFiles/3.10.2/CompilerIdCXX/a.out has insert to database
+2023-07-14 16:38:25: wd=989 filepath=/windows/test/src/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp has insert to database
+2023-07-14 16:38:25: wd=990 filepath=/windows/test/src/CMakeFiles/cmake.check_cache has insert to database
+2023-07-14 16:38:25: wd=991 filepath=/windows/test/src/CMakeFiles/CMakeDirectoryInformation.cmake has insert to database
+2023-07-14 16:38:25: wd=992 filepath=/windows/test/src/CMakeFiles/CMakeOutput.log has insert to database
+2023-07-14 16:38:25: wd=993 filepath=/windows/test/src/CMakeFiles/EMailTest.dir/build.make has insert to database
+2023-07-14 16:38:25: wd=994 filepath=/windows/test/src/CMakeFiles/EMailTest.dir/cmake_clean.cmake has insert to database
+2023-07-14 16:38:25: wd=995 filepath=/windows/test/src/CMakeFiles/EMailTest.dir/CXX.includecache has insert to database
+2023-07-14 16:38:25: wd=996 filepath=/windows/test/src/CMakeFiles/EMailTest.dir/depend.internal has insert to database
+2023-07-14 16:38:25: wd=997 filepath=/windows/test/src/CMakeFiles/EMailTest.dir/depend.make has insert to database
+2023-07-14 16:38:25: wd=998 filepath=/windows/test/src/CMakeFiles/EMailTest.dir/DependInfo.cmake has insert to database
+2023-07-14 16:38:25: wd=999 filepath=/windows/test/src/CMakeFiles/EMailTest.dir/flags.make has insert to database
+2023-07-14 16:38:25: wd=1000 filepath=/windows/test/src/CMakeFiles/EMailTest.dir/link.txt has insert to database
+2023-07-14 16:38:25: wd=1001 filepath=/windows/test/src/CMakeFiles/EMailTest.dir/progress.make has insert to database
+2023-07-14 16:38:25: wd=1002 filepath=/windows/test/src/CMakeFiles/EMailTest.dir/SendMail.cpp.o has insert to database
+2023-07-14 16:38:25: wd=1003 filepath=/windows/test/src/CMakeFiles/EMailTest.dir/SendMailTest.cpp.o has insert to database
+2023-07-14 16:38:25: wd=1004 filepath=/windows/test/src/CMakeFiles/EmialTest.dir/build.make has insert to database
+2023-07-14 16:38:25: wd=1005 filepath=/windows/test/src/CMakeFiles/EmialTest.dir/cmake_clean.cmake has insert to database
+2023-07-14 16:38:25: wd=1006 filepath=/windows/test/src/CMakeFiles/EmialTest.dir/depend.make has insert to database
+2023-07-14 16:38:25: wd=1007 filepath=/windows/test/src/CMakeFiles/EmialTest.dir/DependInfo.cmake has insert to database
+2023-07-14 16:38:25: wd=1008 filepath=/windows/test/src/CMakeFiles/EmialTest.dir/flags.make has insert to database
+2023-07-14 16:38:25: wd=1009 filepath=/windows/test/src/CMakeFiles/EmialTest.dir/progress.make has insert to database
+2023-07-14 16:38:25: wd=1010 filepath=/windows/test/src/CMakeFiles/feature_tests.bin has insert to database
+2023-07-14 16:38:25: wd=1011 filepath=/windows/test/src/CMakeFiles/feature_tests.c has insert to database
+2023-07-14 16:38:25: wd=1012 filepath=/windows/test/src/CMakeFiles/feature_tests.cxx has insert to database
+2023-07-14 16:38:25: wd=1013 filepath=/windows/test/src/CMakeFiles/Makefile.cmake has insert to database
+2023-07-14 16:38:25: wd=1014 filepath=/windows/test/src/CMakeFiles/Makefile2 has insert to database
+2023-07-14 16:38:25: wd=1015 filepath=/windows/test/src/CMakeFiles/progress.marks has insert to database
+2023-07-14 16:38:25: wd=1016 filepath=/windows/test/src/CMakeFiles/TargetDirectories.txt has insert to database
+2023-07-14 16:38:25: wd=1017 filepath=/windows/test/src/CMakeLists.txt has insert to database
+2023-07-14 16:38:25: wd=1018 filepath=/windows/test/src/cmake_install.cmake has insert to database
+2023-07-14 16:38:25: wd=1019 filepath=/windows/test/src/EMailTest has insert to database
+2023-07-14 16:38:25: wd=1020 filepath=/windows/test/src/Makefile has insert to database
+2023-07-14 16:38:25: wd=1021 filepath=/windows/test/src/SendMail.cpp has insert to database
+2023-07-14 16:38:25: wd=1022 filepath=/windows/test/src/SendMail.h has insert to database
+2023-07-14 16:38:25: wd=1023 filepath=/windows/test/src/SendMailTest.cpp has insert to database
+2023-07-14 16:38:25: wd=1024 filepath=/windows/test/test.txt has insert to database
+2023-07-14 16:38:25: wd=1025 filepath=/windows/test/thread/app has insert to database
+2023-07-14 16:38:25: wd=1026 filepath=/windows/test/thread/threadpool.cpp has insert to database
+2023-07-14 16:38:25: wd=1027 filepath=/windows/test.txt has insert to database
+2023-07-14 16:38:25: wd=1028 filepath=/windows/test1/test1 copy 2.txt has insert to database
+2023-07-14 16:38:25: wd=1029 filepath=/windows/test1/test1 copy 3.txt has insert to database
+2023-07-14 16:38:25: wd=1030 filepath=/windows/test1/test1 copy 6.txt has insert to database
+2023-07-14 16:38:25: wd=1031 filepath=/windows/test1/test1 copy 7.txt has insert to database
+2023-07-14 16:38:25: wd=1032 filepath=/windows/test1/test1 copy 9.txt has insert to database
+2023-07-14 16:38:25: wd=1033 filepath=/windows/test1/test1 copy.txt has insert to database
+2023-07-14 16:38:25: wd=1034 filepath=/windows/test1/test1.txt has insert to database
+2023-07-14 16:38:25: wd=1035 filepath=/windows/test1/test4/test4.txt has insert to database
+2023-07-14 16:38:25: wd=1036 filepath=/windows/test1/test4/test5/test5.txt has insert to database
+2023-07-14 16:38:25: wd=1037 filepath=/windows/test1/test4/test5/test6/test6.txt has insert to database
+2023-07-14 16:38:25: wd=1038 filepath=/windows/test1/test4/test5/test6/test7/test7.txt has insert to database
+2023-07-14 16:38:25: wd=1039 filepath=/windows/test1/test4/test5/test6/test7/test8/test8.txt has insert to database
+2023-07-14 16:38:25: wd=1040 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test10/test10.txt has insert to database
+2023-07-14 16:38:25: wd=1041 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test10/test11/test11.txt has insert to database
+2023-07-14 16:38:25: wd=1042 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test10/test11/test12/test12.txt has insert to database
+2023-07-14 16:38:25: wd=1043 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test10/test11/test12/test13/test13.txt has insert to database
+2023-07-14 16:38:25: wd=1044 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test9.txt has insert to database
+2023-07-14 16:38:26: wd=1045 filepath=/windows/test2/test2.txt has insert to database
+2023-07-14 16:38:26: wd=1046 filepath=/windows/test3/test3.txt has insert to database
+2023-07-14 16:38:26: wd=1047 filepath=/windows/TinyWebServer-master/2023_07_02_ServerLog has insert to database
+2023-07-14 16:38:26: wd=1048 filepath=/windows/TinyWebServer-master/build.sh has insert to database
+2023-07-14 16:38:26: wd=1049 filepath=/windows/TinyWebServer-master/CGImysql/README.md has insert to database
+2023-07-14 16:38:26: wd=1050 filepath=/windows/TinyWebServer-master/CGImysql/sql_connection_pool.cpp has insert to database
+2023-07-14 16:38:26: wd=1051 filepath=/windows/TinyWebServer-master/CGImysql/sql_connection_pool.h has insert to database
+2023-07-14 16:38:26: wd=1052 filepath=/windows/TinyWebServer-master/config.cpp has insert to database
+2023-07-14 16:38:26: wd=1053 filepath=/windows/TinyWebServer-master/config.h has insert to database
+2023-07-14 16:38:26: wd=1054 filepath=/windows/TinyWebServer-master/http/http_conn.cpp has insert to database
+2023-07-14 16:38:26: wd=1055 filepath=/windows/TinyWebServer-master/http/http_conn.h has insert to database
+2023-07-14 16:38:26: wd=1056 filepath=/windows/TinyWebServer-master/http/README.md has insert to database
+2023-07-14 16:38:26: wd=1057 filepath=/windows/TinyWebServer-master/LICENSE has insert to database
+2023-07-14 16:38:26: wd=1058 filepath=/windows/TinyWebServer-master/lock/locker.h has insert to database
+2023-07-14 16:38:26: wd=1059 filepath=/windows/TinyWebServer-master/lock/README.md has insert to database
+2023-07-14 16:38:26: wd=1060 filepath=/windows/TinyWebServer-master/log/block_queue.h has insert to database
+2023-07-14 16:38:26: wd=1061 filepath=/windows/TinyWebServer-master/log/log.cpp has insert to database
+2023-07-14 16:38:26: wd=1062 filepath=/windows/TinyWebServer-master/log/log.h has insert to database
+2023-07-14 16:38:26: wd=1063 filepath=/windows/TinyWebServer-master/log/README.md has insert to database
+2023-07-14 16:38:26: wd=1064 filepath=/windows/TinyWebServer-master/main.cpp has insert to database
+2023-07-14 16:38:26: wd=1065 filepath=/windows/TinyWebServer-master/makefile has insert to database
+2023-07-14 16:38:26: wd=1066 filepath=/windows/TinyWebServer-master/README.md has insert to database
+2023-07-14 16:38:26: wd=1067 filepath=/windows/TinyWebServer-master/root/fans.html has insert to database
+2023-07-14 16:38:26: wd=1068 filepath=/windows/TinyWebServer-master/root/favicon.ico has insert to database
+2023-07-14 16:38:26: wd=1069 filepath=/windows/TinyWebServer-master/root/frame.jpg has insert to database
+2023-07-14 16:38:26: wd=1070 filepath=/windows/TinyWebServer-master/root/judge.html has insert to database
+2023-07-14 16:38:26: wd=1071 filepath=/windows/TinyWebServer-master/root/log.html has insert to database
+2023-07-14 16:38:26: wd=1072 filepath=/windows/TinyWebServer-master/root/logError.html has insert to database
+2023-07-14 16:38:26: wd=1073 filepath=/windows/TinyWebServer-master/root/login.gif has insert to database
+2023-07-14 16:38:26: wd=1074 filepath=/windows/TinyWebServer-master/root/loginnew.gif has insert to database
+2023-07-14 16:38:26: wd=1075 filepath=/windows/TinyWebServer-master/root/picture.gif has insert to database
+2023-07-14 16:38:26: wd=1076 filepath=/windows/TinyWebServer-master/root/picture.html has insert to database
+2023-07-14 16:38:26: wd=1077 filepath=/windows/TinyWebServer-master/root/README.md has insert to database
+2023-07-14 16:38:26: wd=1078 filepath=/windows/TinyWebServer-master/root/register.gif has insert to database
+2023-07-14 16:38:26: wd=1079 filepath=/windows/TinyWebServer-master/root/register.html has insert to database
+2023-07-14 16:38:26: wd=1080 filepath=/windows/TinyWebServer-master/root/registerError.html has insert to database
+2023-07-14 16:38:26: wd=1081 filepath=/windows/TinyWebServer-master/root/registernew.gif has insert to database
+2023-07-14 16:38:26: wd=1082 filepath=/windows/TinyWebServer-master/root/test1.jpg has insert to database
+2023-07-14 16:38:26: wd=1083 filepath=/windows/TinyWebServer-master/root/video.gif has insert to database
+2023-07-14 16:38:26: wd=1084 filepath=/windows/TinyWebServer-master/root/video.html has insert to database
+2023-07-14 16:38:26: wd=1085 filepath=/windows/TinyWebServer-master/root/welcome.html has insert to database
+2023-07-14 16:38:26: wd=1086 filepath=/windows/TinyWebServer-master/root/xxx.jpg has insert to database
+2023-07-14 16:38:26: wd=1087 filepath=/windows/TinyWebServer-master/root/xxx.mp4 has insert to database
+2023-07-14 16:38:26: wd=1088 filepath=/windows/TinyWebServer-master/server has insert to database
+2023-07-14 16:38:26: wd=1089 filepath=/windows/TinyWebServer-master/test_pressure/README.md has insert to database
+2023-07-14 16:38:26: wd=1090 filepath=/windows/TinyWebServer-master/test_pressure/webbench-1.5/ChangeLog has insert to database
+2023-07-14 16:38:26: wd=1091 filepath=/windows/TinyWebServer-master/test_pressure/webbench-1.5/COPYRIGHT has insert to database
+2023-07-14 16:38:26: wd=1092 filepath=/windows/TinyWebServer-master/test_pressure/webbench-1.5/debian/changelog has insert to database
+2023-07-14 16:38:26: wd=1093 filepath=/windows/TinyWebServer-master/test_pressure/webbench-1.5/debian/control has insert to database
+2023-07-14 16:38:26: wd=1094 filepath=/windows/TinyWebServer-master/test_pressure/webbench-1.5/debian/copyright has insert to database
+2023-07-14 16:38:26: wd=1095 filepath=/windows/TinyWebServer-master/test_pressure/webbench-1.5/debian/dirs has insert to database
+2023-07-14 16:38:26: wd=1096 filepath=/windows/TinyWebServer-master/test_pressure/webbench-1.5/debian/rules has insert to database
+2023-07-14 16:38:26: wd=1097 filepath=/windows/TinyWebServer-master/test_pressure/webbench-1.5/Makefile has insert to database
+2023-07-14 16:38:26: wd=1098 filepath=/windows/TinyWebServer-master/test_pressure/webbench-1.5/socket.c has insert to database
+2023-07-14 16:38:26: wd=1099 filepath=/windows/TinyWebServer-master/test_pressure/webbench-1.5/tags has insert to database
+2023-07-14 16:38:26: wd=1100 filepath=/windows/TinyWebServer-master/test_pressure/webbench-1.5/webbench has insert to database
+2023-07-14 16:38:26: wd=1101 filepath=/windows/TinyWebServer-master/test_pressure/webbench-1.5/webbench.1 has insert to database
+2023-07-14 16:38:26: wd=1102 filepath=/windows/TinyWebServer-master/test_pressure/webbench-1.5/webbench.c has insert to database
+2023-07-14 16:38:26: wd=1103 filepath=/windows/TinyWebServer-master/test_pressure/webbench-1.5/webbench.o has insert to database
+2023-07-14 16:38:26: wd=1104 filepath=/windows/TinyWebServer-master/threadpool/README.md has insert to database
+2023-07-14 16:38:26: wd=1105 filepath=/windows/TinyWebServer-master/threadpool/threadpool.h has insert to database
+2023-07-14 16:38:26: wd=1106 filepath=/windows/TinyWebServer-master/timer/lst_timer.cpp has insert to database
+2023-07-14 16:38:26: wd=1107 filepath=/windows/TinyWebServer-master/timer/lst_timer.h has insert to database
+2023-07-14 16:38:26: wd=1108 filepath=/windows/TinyWebServer-master/timer/README.md has insert to database
+2023-07-14 16:38:26: wd=1109 filepath=/windows/TinyWebServer-master/webserver.cpp has insert to database
+2023-07-14 16:38:26: wd=1110 filepath=/windows/TinyWebServer-master/webserver.h has insert to database
+2023-07-14 16:38:26: wd=1111 filepath=/windows/TinyWebServer-master - raw/2023_07_02_ServerLog has insert to database
+2023-07-14 16:38:26: wd=1112 filepath=/windows/TinyWebServer-master - raw/build.sh has insert to database
+2023-07-14 16:38:27: wd=1113 filepath=/windows/TinyWebServer-master - raw/CGImysql/README.md has insert to database
+2023-07-14 16:38:27: wd=1114 filepath=/windows/TinyWebServer-master - raw/CGImysql/sql_connection_pool.cpp has insert to database
+2023-07-14 16:38:27: wd=1115 filepath=/windows/TinyWebServer-master - raw/CGImysql/sql_connection_pool.h has insert to database
+2023-07-14 16:38:27: wd=1116 filepath=/windows/TinyWebServer-master - raw/config.cpp has insert to database
+2023-07-14 16:38:27: wd=1117 filepath=/windows/TinyWebServer-master - raw/config.h has insert to database
+2023-07-14 16:38:27: wd=1118 filepath=/windows/TinyWebServer-master - raw/http/http_conn.cpp has insert to database
+2023-07-14 16:38:27: wd=1119 filepath=/windows/TinyWebServer-master - raw/http/http_conn.h has insert to database
+2023-07-14 16:38:27: wd=1120 filepath=/windows/TinyWebServer-master - raw/http/README.md has insert to database
+2023-07-14 16:38:27: wd=1121 filepath=/windows/TinyWebServer-master - raw/LICENSE has insert to database
+2023-07-14 16:38:27: wd=1122 filepath=/windows/TinyWebServer-master - raw/lock/locker.h has insert to database
+2023-07-14 16:38:27: wd=1123 filepath=/windows/TinyWebServer-master - raw/lock/README.md has insert to database
+2023-07-14 16:38:27: wd=1124 filepath=/windows/TinyWebServer-master - raw/log/block_queue.h has insert to database
+2023-07-14 16:38:27: wd=1125 filepath=/windows/TinyWebServer-master - raw/log/log.cpp has insert to database
+2023-07-14 16:38:27: wd=1126 filepath=/windows/TinyWebServer-master - raw/log/log.h has insert to database
+2023-07-14 16:38:27: wd=1127 filepath=/windows/TinyWebServer-master - raw/log/README.md has insert to database
+2023-07-14 16:38:27: wd=1128 filepath=/windows/TinyWebServer-master - raw/main.cpp has insert to database
+2023-07-14 16:38:27: wd=1129 filepath=/windows/TinyWebServer-master - raw/makefile has insert to database
+2023-07-14 16:38:27: wd=1130 filepath=/windows/TinyWebServer-master - raw/README.md has insert to database
+2023-07-14 16:38:27: wd=1131 filepath=/windows/TinyWebServer-master - raw/root/fans.html has insert to database
+2023-07-14 16:38:27: wd=1132 filepath=/windows/TinyWebServer-master - raw/root/favicon.ico has insert to database
+2023-07-14 16:38:27: wd=1133 filepath=/windows/TinyWebServer-master - raw/root/frame.jpg has insert to database
+2023-07-14 16:38:27: wd=1134 filepath=/windows/TinyWebServer-master - raw/root/judge.html has insert to database
+2023-07-14 16:38:27: wd=1135 filepath=/windows/TinyWebServer-master - raw/root/log.html has insert to database
+2023-07-14 16:38:27: wd=1136 filepath=/windows/TinyWebServer-master - raw/root/logError.html has insert to database
+2023-07-14 16:38:27: wd=1137 filepath=/windows/TinyWebServer-master - raw/root/login.gif has insert to database
+2023-07-14 16:38:27: wd=1138 filepath=/windows/TinyWebServer-master - raw/root/loginnew.gif has insert to database
+2023-07-14 16:38:27: wd=1139 filepath=/windows/TinyWebServer-master - raw/root/picture.gif has insert to database
+2023-07-14 16:38:27: wd=1140 filepath=/windows/TinyWebServer-master - raw/root/picture.html has insert to database
+2023-07-14 16:38:27: wd=1141 filepath=/windows/TinyWebServer-master - raw/root/README.md has insert to database
+2023-07-14 16:38:27: wd=1142 filepath=/windows/TinyWebServer-master - raw/root/register.gif has insert to database
+2023-07-14 16:38:27: wd=1143 filepath=/windows/TinyWebServer-master - raw/root/register.html has insert to database
+2023-07-14 16:38:27: wd=1144 filepath=/windows/TinyWebServer-master - raw/root/registerError.html has insert to database
+2023-07-14 16:38:27: wd=1145 filepath=/windows/TinyWebServer-master - raw/root/registernew.gif has insert to database
+2023-07-14 16:38:27: wd=1146 filepath=/windows/TinyWebServer-master - raw/root/test1.jpg has insert to database
+2023-07-14 16:38:27: wd=1147 filepath=/windows/TinyWebServer-master - raw/root/video.gif has insert to database
+2023-07-14 16:38:27: wd=1148 filepath=/windows/TinyWebServer-master - raw/root/video.html has insert to database
+2023-07-14 16:38:27: wd=1149 filepath=/windows/TinyWebServer-master - raw/root/welcome.html has insert to database
+2023-07-14 16:38:27: wd=1150 filepath=/windows/TinyWebServer-master - raw/root/xxx.jpg has insert to database
+2023-07-14 16:38:27: wd=1151 filepath=/windows/TinyWebServer-master - raw/root/xxx.mp4 has insert to database
+2023-07-14 16:38:27: wd=1152 filepath=/windows/TinyWebServer-master - raw/server has insert to database
+2023-07-14 16:38:27: wd=1153 filepath=/windows/TinyWebServer-master - raw/test_pressure/README.md has insert to database
+2023-07-14 16:38:27: wd=1154 filepath=/windows/TinyWebServer-master - raw/test_pressure/webbench-1.5/ChangeLog has insert to database
+2023-07-14 16:38:27: wd=1155 filepath=/windows/TinyWebServer-master - raw/test_pressure/webbench-1.5/COPYRIGHT has insert to database
+2023-07-14 16:38:27: wd=1156 filepath=/windows/TinyWebServer-master - raw/test_pressure/webbench-1.5/debian/changelog has insert to database
+2023-07-14 16:38:27: wd=1157 filepath=/windows/TinyWebServer-master - raw/test_pressure/webbench-1.5/debian/control has insert to database
+2023-07-14 16:38:27: wd=1158 filepath=/windows/TinyWebServer-master - raw/test_pressure/webbench-1.5/debian/copyright has insert to database
+2023-07-14 16:38:27: wd=1159 filepath=/windows/TinyWebServer-master - raw/test_pressure/webbench-1.5/debian/dirs has insert to database
+2023-07-14 16:38:27: wd=1160 filepath=/windows/TinyWebServer-master - raw/test_pressure/webbench-1.5/debian/rules has insert to database
+2023-07-14 16:38:27: wd=1161 filepath=/windows/TinyWebServer-master - raw/test_pressure/webbench-1.5/Makefile has insert to database
+2023-07-14 16:38:27: wd=1162 filepath=/windows/TinyWebServer-master - raw/test_pressure/webbench-1.5/socket.c has insert to database
+2023-07-14 16:38:27: wd=1163 filepath=/windows/TinyWebServer-master - raw/test_pressure/webbench-1.5/tags has insert to database
+2023-07-14 16:38:27: wd=1164 filepath=/windows/TinyWebServer-master - raw/test_pressure/webbench-1.5/webbench has insert to database
+2023-07-14 16:38:27: wd=1165 filepath=/windows/TinyWebServer-master - raw/test_pressure/webbench-1.5/webbench.1 has insert to database
+2023-07-14 16:38:27: wd=1166 filepath=/windows/TinyWebServer-master - raw/test_pressure/webbench-1.5/webbench.c has insert to database
+2023-07-14 16:38:27: wd=1167 filepath=/windows/TinyWebServer-master - raw/test_pressure/webbench-1.5/webbench.o has insert to database
+2023-07-14 16:38:27: wd=1168 filepath=/windows/TinyWebServer-master - raw/threadpool/README.md has insert to database
+2023-07-14 16:38:27: wd=1169 filepath=/windows/TinyWebServer-master - raw/threadpool/threadpool.h has insert to database
+2023-07-14 16:38:27: wd=1170 filepath=/windows/TinyWebServer-master - raw/timer/lst_timer.cpp has insert to database
+2023-07-14 16:38:27: wd=1171 filepath=/windows/TinyWebServer-master - raw/timer/lst_timer.h has insert to database
+2023-07-14 16:38:27: wd=1172 filepath=/windows/TinyWebServer-master - raw/timer/README.md has insert to database
+2023-07-14 16:38:27: wd=1173 filepath=/windows/TinyWebServer-master - raw/webserver.cpp has insert to database
+2023-07-14 16:38:27: wd=1174 filepath=/windows/TinyWebServer-master - raw/webserver.h has insert to database
+2023-07-14 16:38:27: wd=1175 filepath=/windows/ubuntu20.04-mysql_client.tar has insert to database
+2023-07-14 16:38:27: wd=1176 filepath=/windows/webTest/index.html has insert to database
+2023-07-14 16:38:27: wd=1177 filepath=/windows/webTest/main.cpp has insert to database
+2023-07-14 16:38:27: wd=1178 filepath=/windows/webTest/myapp has insert to database
+2023-07-14 16:38:27: wd=1179 filepath=/windows/webTest/search.html has insert to database
+2023-07-14 16:38:58: wd=1 filepath=/windows/test1/test1 copy 2.txt has insert to database
+2023-07-14 16:38:58: wd=2 filepath=/windows/test1/test1 copy 3.txt has insert to database
+2023-07-14 16:38:58: wd=3 filepath=/windows/test1/test1 copy 6.txt has insert to database
+2023-07-14 16:38:58: wd=4 filepath=/windows/test1/test1 copy 7.txt has insert to database
+2023-07-14 16:38:58: wd=5 filepath=/windows/test1/test1 copy 9.txt has insert to database
+2023-07-14 16:38:58: wd=6 filepath=/windows/test1/test1 copy.txt has insert to database
+2023-07-14 16:38:58: wd=7 filepath=/windows/test1/test1.txt has insert to database
+2023-07-14 16:38:58: wd=8 filepath=/windows/test1/test4/test4.txt has insert to database
+2023-07-14 16:38:58: wd=9 filepath=/windows/test1/test4/test5/test5.txt has insert to database
+2023-07-14 16:38:58: wd=10 filepath=/windows/test1/test4/test5/test6/test6.txt has insert to database
+2023-07-14 16:38:58: wd=11 filepath=/windows/test1/test4/test5/test6/test7/test7.txt has insert to database
+2023-07-14 16:38:58: wd=12 filepath=/windows/test1/test4/test5/test6/test7/test8/test8.txt has insert to database
+2023-07-14 16:38:58: wd=13 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test10/test10.txt has insert to database
+2023-07-14 16:38:58: wd=14 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test10/test11/test11.txt has insert to database
+2023-07-14 16:38:58: wd=15 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test10/test11/test12/test12.txt has insert to database
+2023-07-14 16:38:58: wd=16 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test10/test11/test12/test13/test13.txt has insert to database
+2023-07-14 16:38:58: wd=17 filepath=/windows/test1/test4/test5/test6/test7/test8/test9/test9.txt has insert to database
+2023-07-16 18:55:15: wd=1 filepath=/windows/test/fileMonitor/build/CMakeCache.txt has insert to database
+2023-07-16 18:55:15: wd=2 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeCCompiler.cmake has insert to database
+2023-07-16 18:55:15: wd=3 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake has insert to database
+2023-07-16 18:55:15: wd=4 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin has insert to database
+2023-07-16 18:55:15: wd=5 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin has insert to database
+2023-07-16 18:55:15: wd=6 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeSystem.cmake has insert to database
+2023-07-16 18:55:15: wd=7 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CompilerIdC/a.out has insert to database
+2023-07-16 18:55:15: wd=8 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c has insert to database
+2023-07-16 18:55:15: wd=9 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out has insert to database
+2023-07-16 18:55:15: wd=10 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp has insert to database
+2023-07-16 18:55:15: wd=11 filepath=/windows/test/fileMonitor/build/CMakeFiles/cmake.check_cache has insert to database
+2023-07-16 18:55:15: wd=12 filepath=/windows/test/fileMonitor/build/CMakeFiles/CMakeDirectoryInformation.cmake has insert to database
+2023-07-16 18:55:16: wd=13 filepath=/windows/test/fileMonitor/build/CMakeFiles/CMakeOutput.log has insert to database
+2023-07-16 18:55:16: wd=14 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/build.make has insert to database
+2023-07-16 18:55:16: wd=15 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/cmake_clean.cmake has insert to database
+2023-07-16 18:55:16: wd=16 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/CXX.includecache has insert to database
+2023-07-16 18:55:16: wd=17 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/depend.internal has insert to database
+2023-07-16 18:55:16: wd=18 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/depend.make has insert to database
+2023-07-16 18:55:16: wd=19 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/DependInfo.cmake has insert to database
+2023-07-16 18:55:16: wd=20 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/flags.make has insert to database
+2023-07-16 18:55:16: wd=21 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/link.txt has insert to database
+2023-07-16 18:55:16: wd=22 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/main.cpp.o has insert to database
+2023-07-16 18:55:16: wd=23 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/progress.make has insert to database
+2023-07-16 18:55:16: wd=24 filepath=/windows/test/fileMonitor/build/CMakeFiles/Makefile.cmake has insert to database
+2023-07-16 18:55:16: wd=25 filepath=/windows/test/fileMonitor/build/CMakeFiles/Makefile2 has insert to database
+2023-07-16 18:55:16: wd=26 filepath=/windows/test/fileMonitor/build/CMakeFiles/progress.marks has insert to database
+2023-07-16 18:55:16: wd=27 filepath=/windows/test/fileMonitor/build/CMakeFiles/TargetDirectories.txt has insert to database
+2023-07-16 18:55:16: wd=28 filepath=/windows/test/fileMonitor/build/cmake_install.cmake has insert to database
+2023-07-16 18:55:16: wd=29 filepath=/windows/test/fileMonitor/build/file_monitor has insert to database
+2023-07-16 18:55:16: wd=30 filepath=/windows/test/fileMonitor/build/Makefile has insert to database
+2023-07-16 18:55:16: wd=31 filepath=/windows/test/fileMonitor/build.sh has insert to database
+2023-07-16 18:55:16: wd=32 filepath=/windows/test/fileMonitor/CMakeLists.txt has insert to database
+2023-07-16 18:55:16: wd=33 filepath=/windows/test/fileMonitor/main.cpp has insert to database
+2023-07-16 18:55:16: wd=34 filepath=/windows/test/test/111 - 副本 (3).txt has insert to database
+2023-07-16 18:55:16: wd=35 filepath=/windows/test/test/111 - 副本 (7).txt has insert to database
+2023-07-16 18:55:16: wd=36 filepath=/windows/test/test/111 - 副本 (8).txt has insert to database
+2023-07-16 18:55:16: wd=37 filepath=/windows/test/test/111 - 副本 copy 2.txt has insert to database
+2023-07-16 18:55:16: wd=38 filepath=/windows/test/test/111 - 副本 copy 3.txt has insert to database
+2023-07-16 18:55:16: wd=39 filepath=/windows/test/test/111 - 副本 copy 4.txt has insert to database
+2023-07-16 18:55:16: wd=40 filepath=/windows/test/test/111 - 副本 copy 6.txt has insert to database
+2023-07-16 18:55:16: wd=41 filepath=/windows/test/test/111 - 副本 copy 7.txt has insert to database
+2023-07-16 18:55:16: wd=42 filepath=/windows/test/test/111 - 副本 copy.txt has insert to database
+2023-07-16 18:55:16: wd=43 filepath=/windows/test/test/111 - 副本.txt has insert to database
+2023-07-16 18:55:16: wd=44 filepath=/windows/test/test/2 has insert to database
+2023-07-16 18:55:16: wd=45 filepath=/windows/test/test/2thread.cpp has insert to database
+2023-07-16 18:55:16: wd=46 filepath=/windows/test/test/3 has insert to database
+2023-07-16 18:55:16: wd=47 filepath=/windows/test/test/3thread.cpp has insert to database
+2023-07-16 18:55:16: wd=48 filepath=/windows/test/test/app has insert to database
+2023-07-16 18:55:16: wd=49 filepath=/windows/test/test/bpp has insert to database
+2023-07-16 18:55:16: wd=50 filepath=/windows/test/test/thread.cpp has insert to database
+2023-07-16 18:55:16: wd=51 filepath=/windows/test/test/vector_mem.cpp has insert to database
+2023-07-16 19:22:16: wd=1 filepath=/windows/test/fileMonitor/build/CMakeCache.txt has insert to database
+2023-07-16 19:22:16: wd=2 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeCCompiler.cmake has insert to database
+2023-07-16 19:22:16: wd=3 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake has insert to database
+2023-07-16 19:22:16: wd=4 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin has insert to database
+2023-07-16 19:22:16: wd=5 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin has insert to database
+2023-07-16 19:22:16: wd=6 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeSystem.cmake has insert to database
+2023-07-16 19:22:16: wd=7 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CompilerIdC/a.out has insert to database
+2023-07-16 19:22:16: wd=8 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c has insert to database
+2023-07-16 19:22:16: wd=9 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out has insert to database
+2023-07-16 19:22:16: wd=10 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp has insert to database
+2023-07-16 19:22:16: wd=11 filepath=/windows/test/fileMonitor/build/CMakeFiles/cmake.check_cache has insert to database
+2023-07-16 19:22:16: wd=12 filepath=/windows/test/fileMonitor/build/CMakeFiles/CMakeDirectoryInformation.cmake has insert to database
+2023-07-16 19:22:16: wd=13 filepath=/windows/test/fileMonitor/build/CMakeFiles/CMakeOutput.log has insert to database
+2023-07-16 19:22:16: wd=14 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/build.make has insert to database
+2023-07-16 19:22:16: wd=15 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/cmake_clean.cmake has insert to database
+2023-07-16 19:22:16: wd=16 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/CXX.includecache has insert to database
+2023-07-16 19:22:16: wd=17 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/depend.internal has insert to database
+2023-07-16 19:22:16: wd=18 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/depend.make has insert to database
+2023-07-16 19:22:16: wd=19 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/DependInfo.cmake has insert to database
+2023-07-16 19:22:16: wd=20 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/flags.make has insert to database
+2023-07-16 19:22:16: wd=21 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/link.txt has insert to database
+2023-07-16 19:22:16: wd=22 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/main.cpp.o has insert to database
+2023-07-16 19:22:16: wd=23 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/progress.make has insert to database
+2023-07-16 19:22:16: wd=24 filepath=/windows/test/fileMonitor/build/CMakeFiles/Makefile.cmake has insert to database
+2023-07-16 19:22:16: wd=25 filepath=/windows/test/fileMonitor/build/CMakeFiles/Makefile2 has insert to database
+2023-07-16 19:22:16: wd=26 filepath=/windows/test/fileMonitor/build/CMakeFiles/progress.marks has insert to database
+2023-07-16 19:22:16: wd=27 filepath=/windows/test/fileMonitor/build/CMakeFiles/TargetDirectories.txt has insert to database
+2023-07-16 19:22:16: wd=28 filepath=/windows/test/fileMonitor/build/cmake_install.cmake has insert to database
+2023-07-16 19:22:16: wd=29 filepath=/windows/test/fileMonitor/build/file_monitor has insert to database
+2023-07-16 19:22:16: wd=30 filepath=/windows/test/fileMonitor/build/Makefile has insert to database
+2023-07-16 19:22:16: wd=31 filepath=/windows/test/fileMonitor/build.sh has insert to database
+2023-07-16 19:22:16: wd=32 filepath=/windows/test/fileMonitor/CMakeLists.txt has insert to database
+2023-07-16 19:22:16: wd=33 filepath=/windows/test/fileMonitor/main.cpp has insert to database
+2023-07-16 19:22:16: wd=34 filepath=/windows/test/test/111 - 副本 (3).txt has insert to database
+2023-07-16 19:22:16: wd=35 filepath=/windows/test/test/111 - 副本 (7).txt has insert to database
+2023-07-16 19:22:17: wd=36 filepath=/windows/test/test/111 - 副本 (8).txt has insert to database
+2023-07-16 19:22:17: wd=37 filepath=/windows/test/test/111 - 副本 copy 2.txt has insert to database
+2023-07-16 19:22:17: wd=38 filepath=/windows/test/test/111 - 副本 copy 3.txt has insert to database
+2023-07-16 19:22:17: wd=39 filepath=/windows/test/test/111 - 副本 copy 4.txt has insert to database
+2023-07-16 19:22:17: wd=40 filepath=/windows/test/test/111 - 副本 copy 6.txt has insert to database
+2023-07-16 19:22:17: wd=41 filepath=/windows/test/test/111 - 副本 copy 7.txt has insert to database
+2023-07-16 19:22:17: wd=42 filepath=/windows/test/test/111 - 副本 copy.txt has insert to database
+2023-07-16 19:22:17: wd=43 filepath=/windows/test/test/111 - 副本.txt has insert to database
+2023-07-16 19:22:17: wd=44 filepath=/windows/test/test/2 has insert to database
+2023-07-16 19:22:17: wd=45 filepath=/windows/test/test/2thread.cpp has insert to database
+2023-07-16 19:22:17: wd=46 filepath=/windows/test/test/3 has insert to database
+2023-07-16 19:22:17: wd=47 filepath=/windows/test/test/3thread.cpp has insert to database
+2023-07-16 19:22:17: wd=48 filepath=/windows/test/test/app has insert to database
+2023-07-16 19:22:17: wd=49 filepath=/windows/test/test/bpp has insert to database
+2023-07-16 19:22:17: wd=50 filepath=/windows/test/test/thread.cpp has insert to database
+2023-07-16 19:22:17: wd=51 filepath=/windows/test/test/vector_mem.cpp has insert to database
+2023-07-16 19:22:22: wd=1 filepath=/windows/test/fileMonitor/build/CMakeCache.txt has insert to database
+2023-07-16 19:22:22: wd=2 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeCCompiler.cmake has insert to database
+2023-07-16 19:22:22: wd=3 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake has insert to database
+2023-07-16 19:22:22: wd=4 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin has insert to database
+2023-07-16 19:22:22: wd=5 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin has insert to database
+2023-07-16 19:22:22: wd=6 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeSystem.cmake has insert to database
+2023-07-16 19:22:22: wd=7 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CompilerIdC/a.out has insert to database
+2023-07-16 19:22:22: wd=8 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c has insert to database
+2023-07-16 19:22:22: wd=9 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out has insert to database
+2023-07-16 19:22:22: wd=10 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp has insert to database
+2023-07-16 19:22:22: wd=11 filepath=/windows/test/fileMonitor/build/CMakeFiles/cmake.check_cache has insert to database
+2023-07-16 19:22:22: wd=12 filepath=/windows/test/fileMonitor/build/CMakeFiles/CMakeDirectoryInformation.cmake has insert to database
+2023-07-16 19:22:22: wd=13 filepath=/windows/test/fileMonitor/build/CMakeFiles/CMakeOutput.log has insert to database
+2023-07-16 19:22:22: wd=14 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/build.make has insert to database
+2023-07-16 19:22:22: wd=15 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/cmake_clean.cmake has insert to database
+2023-07-16 19:22:22: wd=16 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/CXX.includecache has insert to database
+2023-07-16 19:23:10: wd=1 filepath=/windows/test/fileMonitor/build/CMakeCache.txt has insert to database
+2023-07-16 19:23:10: wd=2 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeCCompiler.cmake has insert to database
+2023-07-16 19:23:10: wd=3 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake has insert to database
+2023-07-16 19:23:10: wd=4 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin has insert to database
+2023-07-16 19:23:10: wd=5 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin has insert to database
+2023-07-16 19:23:10: wd=6 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CMakeSystem.cmake has insert to database
+2023-07-16 19:23:10: wd=7 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CompilerIdC/a.out has insert to database
+2023-07-16 19:23:10: wd=8 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c has insert to database
+2023-07-16 19:23:10: wd=9 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out has insert to database
+2023-07-16 19:23:10: wd=10 filepath=/windows/test/fileMonitor/build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp has insert to database
+2023-07-16 19:23:10: wd=11 filepath=/windows/test/fileMonitor/build/CMakeFiles/cmake.check_cache has insert to database
+2023-07-16 19:23:10: wd=12 filepath=/windows/test/fileMonitor/build/CMakeFiles/CMakeDirectoryInformation.cmake has insert to database
+2023-07-16 19:23:10: wd=13 filepath=/windows/test/fileMonitor/build/CMakeFiles/CMakeOutput.log has insert to database
+2023-07-16 19:23:10: wd=14 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/build.make has insert to database
+2023-07-16 19:23:10: wd=15 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/cmake_clean.cmake has insert to database
+2023-07-16 19:23:10: wd=16 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/CXX.includecache has insert to database
+2023-07-16 19:23:10: wd=17 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/depend.internal has insert to database
+2023-07-16 19:23:10: wd=18 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/depend.make has insert to database
+2023-07-16 19:23:10: wd=19 filepath=/windows/test/fileMonitor/build/CMakeFiles/file_monitor.dir/DependInfo.cmake has insert to database
+Thread 0: Log message 0
+Thread 0: Log message 1
+Thread 0: Log message 2
+Thread 0: Log message 3
+Thread 0: Log message 4
+Thread 0: Log message 5
+Thread 0: Log message 6
+Thread 0: Log message 7
+Thread 0: Log message 8
+Thread 0: Log message 9
+Thread 0: Log message 10
+Thread 0: Log message 11
+Thread 0: Log message 12
+Thread 1: Log message 0
+Thread 0: Log message 13
+Thread 1: Log message 1
+Thread 0: Log message 14
+Thread 1: Log message 2
+Thread 1: Log message 3
+Thread 0: Log message 15
+Thread 1: Log message 4
+Thread 0: Log message 16
+Thread 1: Log message 5
+Thread 1: Log message 6
+Thread 0: Log message 17
+Thread 1: Log message 7
+Thread 1: Log message 8
+Thread 0: Log message 18
+Thread 1: Log message 9
+Thread 0: Log message 19
+Thread 1: Log message 10
+Thread 1: Log message 11
+Thread 0: Log message 20
+Thread 1: Log message 12
+Thread 1: Log message 13
+Thread 0: Log message 21
+Thread 1: Log message 14
+Thread 1: Log message 15
+Thread 0: Log message 22
+Thread 1: Log message 16
+Thread 0: Log message 23
+Thread 1: Log message 17
+Thread 2: Log message 0
+Thread 1: Log message 18
+Thread 1: Log message 19
+Thread 1: Log message 20
+Thread 1: Log message 21
+Thread 1: Log message 22
+Thread 1: Log message 23
+Thread 1: Log message 24
+Thread 1: Log message 25
+Thread 1: Log message 26
+Thread 1: Log message 27
+Thread 1: Log message 28
+Thread 1: Log message 29
+Thread 1: Log message 30
+Thread 1: Log message 31
+Thread 1: Log message 32
+Thread 1: Log message 33
+Thread 1: Log message 34
+Thread 1: Log message 35
+Thread 1: Log message 36
+Thread 1: Log message 37
+Thread 1: Log message 38
+Thread 1: Log message 39
+Thread 1: Log message 40
+Thread 1: Log message 41
+Thread 1: Log message 42
+Thread 1: Log message 43
+Thread 1: Log message 44
+Thread 1: Log message 45
+Thread 1: Log message 46
+Thread 0: Log message 24
+Thread 2: Log message 1
+Thread 2: Log message 2
+Thread 2: Log message 3
+Thread 0: Log message 25
+Thread 2: Log message 4
+Thread 2: Log message 5
+Thread 2: Log message 6
+Thread 2: Log message 7
+Thread 0: Log message 26

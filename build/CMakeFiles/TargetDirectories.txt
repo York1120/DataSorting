@@ -1,0 +1,3 @@
+/windows/DataSorting/build/CMakeFiles/rebuild_cache.dir
+/windows/DataSorting/build/CMakeFiles/edit_cache.dir
+/windows/DataSorting/build/CMakeFiles/DataSorting.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/DataSorting.dir/main.cpp.o CMakeFiles/DataSorting.dir/sql/SqlCreate.cpp.o CMakeFiles/DataSorting.dir/log/log.cpp.o  -o DataSorting  -lmysqlclient -lstdc++fs -lrt -lpthread 

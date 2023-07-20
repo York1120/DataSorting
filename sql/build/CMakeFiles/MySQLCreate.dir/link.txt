@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/MySQLCreate.dir/SqlCreate.cpp.o CMakeFiles/MySQLCreate.dir/SqlCreateTest.cpp.o CMakeFiles/MySQLCreate.dir/windows/DataSorting/log/log.cpp.o  -o MySQLCreate  -lmysqlclient -lstdc++fs -lrt -lpthread 
